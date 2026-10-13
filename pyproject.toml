@@ -1,0 +1,21 @@
+[build-system]
+requires = ["maturin>=1.7,<2"]
+build-backend = "maturin"
+
+[project]
+name = "stabilizer"
+version = "0.2.0"
+description = "Aaronson-Gottesman (2004) stabilizer circuit simulator in Rust, with Python bindings"
+requires-python = ">=3.10"
+dependencies = ["numpy"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.maturin]
+python-source = "python"
+module-name = "stabilizer._core"
+features = ["python"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

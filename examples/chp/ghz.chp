@@ -1,0 +1,9 @@
+GHZ state on 3 qubits. The first measurement is random; the other two
+are determinate and agree with it.
+#
+h 0
+c 0 1
+c 0 2
+m 0
+m 1
+m 2

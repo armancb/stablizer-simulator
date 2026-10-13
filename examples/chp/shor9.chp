@@ -1,0 +1,42 @@
+Shor's 9-qubit code. Encode |0> on qubits 0-8, apply a bit flip
+(X = h p p h) to qubit 4, measure the syndromes Z3Z4 and Z4Z5 into
+ancillas 9 and 10 (both read 1, pointing at qubit 4), correct qubit 4,
+decode, and measure qubit 0, which is determinately 0.
+#
+c 0 3
+c 0 6
+h 0
+h 3
+h 6
+c 0 1
+c 0 2
+c 3 4
+c 3 5
+c 6 7
+c 6 8
+h 4
+p 4
+p 4
+h 4
+c 3 9
+c 4 9
+c 4 10
+c 5 10
+m 9
+m 10
+h 4
+p 4
+p 4
+h 4
+c 6 8
+c 6 7
+c 3 5
+c 3 4
+c 0 2
+c 0 1
+h 6
+h 3
+h 0
+c 0 6
+c 0 3
+m 0

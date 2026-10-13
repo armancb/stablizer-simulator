@@ -1,0 +1,17 @@
+Bennett-Wiesner dense coding: Alice sends the two bits 1 1 by applying
+Z then X (Z = p p, X = h p p h) to her half (qubit 0) of an EPR pair.
+Bob decodes with CNOT then H and reads both bits determinately.
+Outcome: m 0 gives the Z bit (1), m 1 gives the X bit (1).
+#
+h 0
+c 0 1
+p 0
+p 0
+h 0
+p 0
+p 0
+h 0
+c 0 1
+h 0
+m 0
+m 1

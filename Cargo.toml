@@ -1,0 +1,26 @@
+[package]
+name = "stabilizer"
+version = "0.2.0"
+edition = "2021"
+description = "Aaronson-Gottesman (2004) stabilizer circuit simulation, with Python bindings"
+license = "MIT"
+
+[lib]
+name = "stabilizer"
+crate-type = ["cdylib", "rlib"]
+
+[[bin]]
+name = "chp"
+path = "src/bin/chp.rs"
+
+[features]
+default = []
+python = ["dep:pyo3"]
+
+[dependencies]
+num-complex = "0.4"
+num-bigint = "0.4"
+pyo3 = { version = "0.29", features = ["abi3-py310"], optional = true }
+
+[profile.release]
+opt-level = 3

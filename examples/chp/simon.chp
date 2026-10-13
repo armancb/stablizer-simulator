@@ -1,0 +1,19 @@
+Simon's algorithm for f(x) = f(x XOR s) with n = 3 and secret s = 110.
+Qubits 0-2 hold x, qubits 3-5 hold f(x). The oracle copies x into the
+second register, then (since s_0 = 1) XORs x_0 into every y_j with
+s_j = 1. Each run's outcome y satisfies y . s = 0 (mod 2).
+#
+h 0
+h 1
+h 2
+c 0 3
+c 1 4
+c 2 5
+c 0 3
+c 0 4
+h 0
+h 1
+h 2
+m 0
+m 1
+m 2
