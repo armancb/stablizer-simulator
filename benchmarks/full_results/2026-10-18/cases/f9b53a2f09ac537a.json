@@ -1,0 +1,50 @@
+{
+  "id": "f9b53a2f09ac537a",
+  "family": "gates",
+  "parameters": {
+    "n": 127,
+    "workload": "cx",
+    "count": 1,
+    "prep": 0,
+    "seed": 731,
+    "locality": "random"
+  },
+  "started_at_utc": "2026-10-18T17:54:24.740552+00:00",
+  "status": "success",
+  "result": {
+    "stabilizer": {
+      "samples_seconds": [
+        1.2000000000000002e-07,
+        1.6e-07,
+        1.1e-07,
+        1.36e-07,
+        1.66e-07
+      ],
+      "median_seconds": 1.36e-07,
+      "min_seconds": 1.1e-07,
+      "max_seconds": 1.66e-07,
+      "mad_seconds": 2.4000000000000003e-08,
+      "ns_per_gate": 136.0,
+      "gates_per_second": 7352941.176470588
+    },
+    "stim": {
+      "samples_seconds": [
+        3.2100000000000003e-07,
+        2.92e-07,
+        2.97e-07,
+        3.1400000000000003e-07,
+        2.94e-07
+      ],
+      "median_seconds": 2.97e-07,
+      "min_seconds": 2.92e-07,
+      "max_seconds": 3.2100000000000003e-07,
+      "mad_seconds": 5.000000000000005e-09,
+      "ns_per_gate": 297.0,
+      "gates_per_second": 3367003.367003367
+    },
+    "stabilizer_over_stim": 0.4579124579124579,
+    "verified": true,
+    "gate_sha256": "2c15adbb60ed3dc6284675ba7ed8742a72ee92ee63379dd28fdb003987def799"
+  },
+  "wall_seconds": 0.0007290439998541842
+}

@@ -1,0 +1,61 @@
+{
+  "id": "b4acba916512e21a",
+  "family": "measurement",
+  "parameters": {
+    "n": 1024,
+    "state": "bell",
+    "count": 1,
+    "mode": "native",
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T17:56:34.412460+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 1024,
+    "state": "bell",
+    "mode": "native",
+    "measurement_count": 1,
+    "basis": "Z",
+    "seed": 731,
+    "targets": [
+      1007
+    ],
+    "random_measurements": 1,
+    "deterministic_measurements": 0,
+    "sampled_initial_qubits": 64,
+    "sampled_maximally_mixed_qubits": 64,
+    "preparation_gate_count": 1024,
+    "preparation_sha256": "5219fe76fca9fddf82984c978c948a84fbf8f2ff4806f9b7757db71b9b918667",
+    "samples_seconds": {
+      "stabilizer": [
+        3.873e-06,
+        3.3010000000000002e-06,
+        3.247e-06,
+        3.186e-06,
+        3.949000000000001e-06
+      ],
+      "stim": [
+        0.00022718800000000002,
+        0.000224882,
+        0.000225839,
+        0.000240888,
+        0.00023228900000000003
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 3.3010000000000002e-06,
+      "stim": 0.00022718800000000002
+    },
+    "ns_per_measured_qubit": {
+      "stabilizer": 3301.0000000000005,
+      "stim": 227188.00000000003
+    },
+    "stabilizer_over_stim": 0.014529816715671603,
+    "verification": "whole outcome vector replay and sampled collapsed qubits",
+    "warmup_outcome_sha256": {
+      "stabilizer": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a",
+      "stim": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a"
+    }
+  },
+  "wall_seconds": 0.015364767999926698
+}

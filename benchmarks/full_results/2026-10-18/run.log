@@ -1,0 +1,2064 @@
+Output /home/ashwin/qbits/stablizer-simulator/benchmarks/full_results/2026-10-18; 1090 cases, 0 already completed; repeats=5
+[1/1090] gates {'n': 1, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.5600000000000002e-07, 'stim': 3.37e-07}
+[2/1090] gates {'n': 1, 'workload': 'h', 'count': 1, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4400000000000002e-07, 'stim': 2.7100000000000003e-07}
+[3/1090] gates {'n': 1, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.7260000000000004e-06, 'stim': 5.223000000000001e-06}
+[4/1090] gates {'n': 1, 'workload': 'h', 'count': 1000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.5120000000000004e-06, 'stim': 5.129e-06}
+[5/1090] gates {'n': 1, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000170256, 'stim': 0.000241713}
+[6/1090] gates {'n': 1, 'workload': 'h', 'count': 50000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000200508, 'stim': 0.000248857}
+[7/1090] gates {'n': 1, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.1900000000000001e-07, 'stim': 3.18e-07}
+[8/1090] gates {'n': 1, 'workload': 's', 'count': 1, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.16e-07, 'stim': 2.61e-07}
+[9/1090] gates {'n': 1, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.6e-06, 'stim': 1.2138000000000001e-05}
+[10/1090] gates {'n': 1, 'workload': 's', 'count': 1000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.8440000000000002e-06, 'stim': 8.969e-06}
+[11/1090] gates {'n': 1, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000137706, 'stim': 0.000406572}
+[12/1090] gates {'n': 1, 'workload': 's', 'count': 50000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000153878, 'stim': 0.000436571}
+[13/1090] gates {'n': 1, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6e-07, 'stim': 3.13e-07}
+[14/1090] gates {'n': 1, 'workload': 'mixed', 'count': 1, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.28e-07, 'stim': 2.7600000000000004e-07}
+[15/1090] gates {'n': 1, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.938e-06, 'stim': 1.4638000000000001e-05}
+[16/1090] gates {'n': 1, 'workload': 'mixed', 'count': 1000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.153e-06, 'stim': 1.3515e-05}
+[17/1090] gates {'n': 1, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000233643, 'stim': 0.000918339}
+[18/1090] gates {'n': 1, 'workload': 'mixed', 'count': 50000, 'prep': 40, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000228542, 'stim': 0.0008636010000000001}
+[19/1090] gates {'n': 2, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4400000000000002e-07, 'stim': 2.79e-07}
+[20/1090] gates {'n': 2, 'workload': 'h', 'count': 1, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.0900000000000001e-07, 'stim': 2.75e-07}
+[21/1090] gates {'n': 2, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.6020000000000002e-06, 'stim': 4.8780000000000006e-06}
+[22/1090] gates {'n': 2, 'workload': 'h', 'count': 1000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.6e-06, 'stim': 4.841e-06}
+[23/1090] gates {'n': 2, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000159359, 'stim': 0.00024508200000000004}
+[24/1090] gates {'n': 2, 'workload': 'h', 'count': 50000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00020048800000000002, 'stim': 0.000249829}
+[25/1090] gates {'n': 2, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.59e-07, 'stim': 2.9300000000000004e-07}
+[26/1090] gates {'n': 2, 'workload': 's', 'count': 1, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.17e-07, 'stim': 2.68e-07}
+[27/1090] gates {'n': 2, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.488e-06, 'stim': 8.394000000000001e-06}
+[28/1090] gates {'n': 2, 'workload': 's', 'count': 1000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.583e-06, 'stim': 8.97e-06}
+[29/1090] gates {'n': 2, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00013709600000000002, 'stim': 0.00043966100000000004}
+[30/1090] gates {'n': 2, 'workload': 's', 'count': 50000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000131769, 'stim': 0.000435362}
+[31/1090] gates {'n': 2, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4e-07, 'stim': 3.04e-07}
+[32/1090] gates {'n': 2, 'workload': 'cx', 'count': 1, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.72e-07, 'stim': 3.8400000000000005e-07}
+[33/1090] gates {'n': 2, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.9380000000000006e-06, 'stim': 1.8872e-05}
+[34/1090] gates {'n': 2, 'workload': 'cx', 'count': 1000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.748000000000001e-06, 'stim': 2.0050000000000003e-05}
+[35/1090] gates {'n': 2, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000379717, 'stim': 0.000909313}
+[36/1090] gates {'n': 2, 'workload': 'cx', 'count': 50000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00037121200000000005, 'stim': 0.0008743790000000001}
+[37/1090] gates {'n': 2, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4e-07, 'stim': 3.2600000000000003e-07}
+[38/1090] gates {'n': 2, 'workload': 'mixed', 'count': 1, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.07e-07, 'stim': 2.7600000000000004e-07}
+[39/1090] gates {'n': 2, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.3590000000000004e-06, 'stim': 2.0705000000000003e-05}
+[40/1090] gates {'n': 2, 'workload': 'mixed', 'count': 1000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.4250000000000002e-06, 'stim': 2.2302e-05}
+[41/1090] gates {'n': 2, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000536545, 'stim': 0.0014711680000000001}
+[42/1090] gates {'n': 2, 'workload': 'mixed', 'count': 50000, 'prep': 80, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00039584600000000005, 'stim': 0.0013563210000000002}
+[43/1090] gates {'n': 63, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.01e-07, 'stim': 2.58e-07}
+[44/1090] gates {'n': 63, 'workload': 'h', 'count': 1, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.72e-07, 'stim': 6.180000000000001e-07}
+[45/1090] gates {'n': 63, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.0153000000000001e-05, 'stim': 1.4527000000000002e-05}
+[46/1090] gates {'n': 63, 'workload': 'h', 'count': 1000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.9590000000000004e-06, 'stim': 5.48e-06}
+[47/1090] gates {'n': 63, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000148939, 'stim': 0.00024078400000000002}
+[48/1090] gates {'n': 63, 'workload': 'h', 'count': 50000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000124897, 'stim': 0.000273165}
+[49/1090] gates {'n': 63, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.1200000000000001e-07, 'stim': 2.6400000000000003e-07}
+[50/1090] gates {'n': 63, 'workload': 's', 'count': 1, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.58e-07, 'stim': 3.7200000000000005e-07}
+[51/1090] gates {'n': 63, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.716e-06, 'stim': 9.222e-06}
+[52/1090] gates {'n': 63, 'workload': 's', 'count': 1000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.4230000000000003e-06, 'stim': 8.6e-06}
+[53/1090] gates {'n': 63, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000139491, 'stim': 0.000437019}
+[54/1090] gates {'n': 63, 'workload': 's', 'count': 50000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000151349, 'stim': 0.000473565}
+[55/1090] gates {'n': 63, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.31e-07, 'stim': 3.08e-07}
+[56/1090] gates {'n': 63, 'workload': 'cx', 'count': 1, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.7000000000000001e-07, 'stim': 3.6000000000000005e-07}
+[57/1090] gates {'n': 63, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.297e-06, 'stim': 1.9115000000000002e-05}
+[58/1090] gates {'n': 63, 'workload': 'cx', 'count': 1000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.3360000000000006e-06, 'stim': 1.9288000000000002e-05}
+[59/1090] gates {'n': 63, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000414602, 'stim': 0.0009367560000000001}
+[60/1090] gates {'n': 63, 'workload': 'cx', 'count': 50000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00040139, 'stim': 0.0009362630000000001}
+[61/1090] gates {'n': 63, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.42e-07, 'stim': 3.08e-07}
+[62/1090] gates {'n': 63, 'workload': 'mixed', 'count': 1, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.01e-07, 'stim': 6.02e-07}
+[63/1090] gates {'n': 63, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.615e-06, 'stim': 2.2334e-05}
+[64/1090] gates {'n': 63, 'workload': 'mixed', 'count': 1000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.5757000000000002e-05, 'stim': 6.2204e-05}
+[65/1090] gates {'n': 63, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00039908200000000004, 'stim': 0.001402884}
+[66/1090] gates {'n': 63, 'workload': 'mixed', 'count': 50000, 'prep': 2520, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00046492500000000004, 'stim': 0.0014317750000000001}
+[67/1090] gates {'n': 64, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.22e-07, 'stim': 2.96e-07}
+[68/1090] gates {'n': 64, 'workload': 'h', 'count': 1, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.22e-07, 'stim': 4.1500000000000005e-07}
+[69/1090] gates {'n': 64, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.005e-06, 'stim': 5.422e-06}
+[70/1090] gates {'n': 64, 'workload': 'h', 'count': 1000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.8620000000000003e-06, 'stim': 5.536e-06}
+[71/1090] gates {'n': 64, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000129763, 'stim': 0.000253553}
+[72/1090] gates {'n': 64, 'workload': 'h', 'count': 50000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00015116600000000002, 'stim': 0.00024023300000000002}
+[73/1090] gates {'n': 64, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.23e-07, 'stim': 2.61e-07}
+[74/1090] gates {'n': 64, 'workload': 's', 'count': 1, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.66e-07, 'stim': 3.16e-07}
+[75/1090] gates {'n': 64, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.481e-06, 'stim': 9.092e-06}
+[76/1090] gates {'n': 64, 'workload': 's', 'count': 1000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.8840000000000003e-06, 'stim': 9.136e-06}
+[77/1090] gates {'n': 64, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000118739, 'stim': 0.000427967}
+[78/1090] gates {'n': 64, 'workload': 's', 'count': 50000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000120352, 'stim': 0.00044110000000000004}
+[79/1090] gates {'n': 64, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.3200000000000002e-07, 'stim': 3.01e-07}
+[80/1090] gates {'n': 64, 'workload': 'cx', 'count': 1, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6200000000000002e-07, 'stim': 3.7600000000000003e-07}
+[81/1090] gates {'n': 64, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.609e-06, 'stim': 1.808e-05}
+[82/1090] gates {'n': 64, 'workload': 'cx', 'count': 1000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 6.7210000000000005e-06, 'stim': 1.8006e-05}
+[83/1090] gates {'n': 64, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00036704, 'stim': 0.000881541}
+[84/1090] gates {'n': 64, 'workload': 'cx', 'count': 50000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000369887, 'stim': 0.0008821040000000001}
+[85/1090] gates {'n': 64, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.37e-07, 'stim': 2.85e-07}
+[86/1090] gates {'n': 64, 'workload': 'mixed', 'count': 1, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.58e-07, 'stim': 3.68e-07}
+[87/1090] gates {'n': 64, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.13e-06, 'stim': 2.1439000000000003e-05}
+[88/1090] gates {'n': 64, 'workload': 'mixed', 'count': 1000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 6.246e-06, 'stim': 2.4669e-05}
+[89/1090] gates {'n': 64, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00039446900000000005, 'stim': 0.0012566410000000002}
+[90/1090] gates {'n': 64, 'workload': 'mixed', 'count': 50000, 'prep': 2560, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000391471, 'stim': 0.001387068}
+[91/1090] gates {'n': 65, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.67e-07, 'stim': 4.06e-07}
+[92/1090] gates {'n': 65, 'workload': 'h', 'count': 1, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6800000000000002e-07, 'stim': 3.8100000000000004e-07}
+[93/1090] gates {'n': 65, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.576e-06, 'stim': 5.202e-06}
+[94/1090] gates {'n': 65, 'workload': 'h', 'count': 1000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.108e-06, 'stim': 5.359000000000001e-06}
+[95/1090] gates {'n': 65, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000145202, 'stim': 0.000235621}
+[96/1090] gates {'n': 65, 'workload': 'h', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000118586, 'stim': 0.000231787}
+[97/1090] gates {'n': 65, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.8e-08, 'stim': 2.79e-07}
+[98/1090] gates {'n': 65, 'workload': 's', 'count': 1, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6200000000000002e-07, 'stim': 3.51e-07}
+[99/1090] gates {'n': 65, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.491e-06, 'stim': 8.894e-06}
+[100/1090] gates {'n': 65, 'workload': 's', 'count': 1000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.214e-06, 'stim': 8.758e-06}
+[101/1090] gates {'n': 65, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00013744400000000002, 'stim': 0.00042200100000000003}
+[102/1090] gates {'n': 65, 'workload': 's', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000120477, 'stim': 0.00040974}
+[103/1090] gates {'n': 65, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.89e-07, 'stim': 3.54e-07}
+[104/1090] gates {'n': 65, 'workload': 'cx', 'count': 1, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.61e-07, 'stim': 3.58e-07}
+[105/1090] gates {'n': 65, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.704e-06, 'stim': 1.8326e-05}
+[106/1090] gates {'n': 65, 'workload': 'cx', 'count': 1000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.4700000000000005e-06, 'stim': 1.9275e-05}
+[107/1090] gates {'n': 65, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000370882, 'stim': 0.0008883630000000001}
+[108/1090] gates {'n': 65, 'workload': 'cx', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000408748, 'stim': 0.000970625}
+[109/1090] gates {'n': 65, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.24e-07, 'stim': 3.0000000000000004e-07}
+[110/1090] gates {'n': 65, 'workload': 'mixed', 'count': 1, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.8100000000000002e-07, 'stim': 4.2e-07}
+[111/1090] gates {'n': 65, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.422e-06, 'stim': 2.2837000000000002e-05}
+[112/1090] gates {'n': 65, 'workload': 'mixed', 'count': 1000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.187000000000001e-06, 'stim': 2.6349e-05}
+[113/1090] gates {'n': 65, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00041375, 'stim': 0.001428058}
+[114/1090] gates {'n': 65, 'workload': 'mixed', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00040015700000000005, 'stim': 0.00127456}
+[115/1090] gates {'n': 127, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.21e-07, 'stim': 2.79e-07}
+[116/1090] gates {'n': 127, 'workload': 'h', 'count': 1, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.21e-07, 'stim': 4.51e-07}
+[117/1090] gates {'n': 127, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.5070000000000003e-06, 'stim': 4.911e-06}
+[118/1090] gates {'n': 127, 'workload': 'h', 'count': 1000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.604e-06, 'stim': 5.02e-06}
+[119/1090] gates {'n': 127, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00012321900000000001, 'stim': 0.000226204}
+[120/1090] gates {'n': 127, 'workload': 'h', 'count': 50000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000166066, 'stim': 0.000237779}
+[121/1090] gates {'n': 127, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.78e-07, 'stim': 6.67e-07}
+[122/1090] gates {'n': 127, 'workload': 's', 'count': 1, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.1900000000000002e-07, 'stim': 4.3e-07}
+[123/1090] gates {'n': 127, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.369e-06, 'stim': 8.527e-06}
+[124/1090] gates {'n': 127, 'workload': 's', 'count': 1000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.474e-06, 'stim': 8.77e-06}
+[125/1090] gates {'n': 127, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00012088100000000001, 'stim': 0.0004247}
+[126/1090] gates {'n': 127, 'workload': 's', 'count': 50000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00011946700000000001, 'stim': 0.000435459}
+[127/1090] gates {'n': 127, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.36e-07, 'stim': 2.97e-07}
+[128/1090] gates {'n': 127, 'workload': 'cx', 'count': 1, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.95e-07, 'stim': 4.95e-07}
+[129/1090] gates {'n': 127, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.91e-06, 'stim': 1.8880000000000002e-05}
+[130/1090] gates {'n': 127, 'workload': 'cx', 'count': 1000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.483e-06, 'stim': 1.8626e-05}
+[131/1090] gates {'n': 127, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00038013900000000004, 'stim': 0.000914203}
+[132/1090] gates {'n': 127, 'workload': 'cx', 'count': 50000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00036617800000000004, 'stim': 0.000881968}
+[133/1090] gates {'n': 127, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.3200000000000002e-07, 'stim': 3.1e-07}
+[134/1090] gates {'n': 127, 'workload': 'mixed', 'count': 1, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.43e-07, 'stim': 3.9e-07}
+[135/1090] gates {'n': 127, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.0540000000000003e-06, 'stim': 2.1974e-05}
+[136/1090] gates {'n': 127, 'workload': 'mixed', 'count': 1000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.823000000000001e-06, 'stim': 2.6810000000000003e-05}
+[137/1090] gates {'n': 127, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00040090300000000003, 'stim': 0.001318532}
+[138/1090] gates {'n': 127, 'workload': 'mixed', 'count': 50000, 'prep': 5080, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000387649, 'stim': 0.001249474}
+[139/1090] gates {'n': 128, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.1500000000000001e-07, 'stim': 2.87e-07}
+[140/1090] gates {'n': 128, 'workload': 'h', 'count': 1, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.33e-07, 'stim': 3.87e-07}
+[141/1090] gates {'n': 128, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.869e-06, 'stim': 4.994e-06}
+[142/1090] gates {'n': 128, 'workload': 'h', 'count': 1000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.9700000000000004e-06, 'stim': 5.055000000000001e-06}
+[143/1090] gates {'n': 128, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00015344300000000001, 'stim': 0.00023718}
+[144/1090] gates {'n': 128, 'workload': 'h', 'count': 50000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000167645, 'stim': 0.000245312}
+[145/1090] gates {'n': 128, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.21e-07, 'stim': 2.65e-07}
+[146/1090] gates {'n': 128, 'workload': 's', 'count': 1, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.7600000000000001e-07, 'stim': 3.94e-07}
+[147/1090] gates {'n': 128, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.627e-06, 'stim': 8.475000000000001e-06}
+[148/1090] gates {'n': 128, 'workload': 's', 'count': 1000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.249e-06, 'stim': 9.498000000000001e-06}
+[149/1090] gates {'n': 128, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000135826, 'stim': 0.000427756}
+[150/1090] gates {'n': 128, 'workload': 's', 'count': 50000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000159187, 'stim': 0.00043986700000000004}
+[151/1090] gates {'n': 128, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.2000000000000002e-07, 'stim': 2.8300000000000003e-07}
+[152/1090] gates {'n': 128, 'workload': 'cx', 'count': 1, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.82e-07, 'stim': 4.42e-07}
+[153/1090] gates {'n': 128, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.16e-06, 'stim': 1.9827000000000002e-05}
+[154/1090] gates {'n': 128, 'workload': 'cx', 'count': 1000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.5210000000000005e-06, 'stim': 1.9397e-05}
+[155/1090] gates {'n': 128, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000418489, 'stim': 0.000938854}
+[156/1090] gates {'n': 128, 'workload': 'cx', 'count': 50000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000408294, 'stim': 0.00094333}
+[157/1090] gates {'n': 128, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.21e-07, 'stim': 2.9500000000000003e-07}
+[158/1090] gates {'n': 128, 'workload': 'mixed', 'count': 1, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.0000000000000002e-07, 'stim': 4.970000000000001e-07}
+[159/1090] gates {'n': 128, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.826e-06, 'stim': 2.3141e-05}
+[160/1090] gates {'n': 128, 'workload': 'mixed', 'count': 1000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.3290000000000005e-06, 'stim': 2.4419e-05}
+[161/1090] gates {'n': 128, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00047420100000000005, 'stim': 0.001342635}
+[162/1090] gates {'n': 128, 'workload': 'mixed', 'count': 50000, 'prep': 5120, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00044745900000000004, 'stim': 0.001402068}
+[163/1090] gates {'n': 129, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.3e-07, 'stim': 2.79e-07}
+[164/1090] gates {'n': 129, 'workload': 'h', 'count': 1, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 6.110000000000001e-07, 'stim': 9.940000000000001e-07}
+[165/1090] gates {'n': 129, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.17e-06, 'stim': 5.998e-06}
+[166/1090] gates {'n': 129, 'workload': 'h', 'count': 1000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.576e-06, 'stim': 6.579e-06}
+[167/1090] gates {'n': 129, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000146183, 'stim': 0.000282623}
+[168/1090] gates {'n': 129, 'workload': 'h', 'count': 50000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000189852, 'stim': 0.00029294200000000003}
+[169/1090] gates {'n': 129, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4e-07, 'stim': 2.97e-07}
+[170/1090] gates {'n': 129, 'workload': 's', 'count': 1, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.64e-07, 'stim': 3.5700000000000003e-07}
+[171/1090] gates {'n': 129, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.2900000000000003e-06, 'stim': 1.0197e-05}
+[172/1090] gates {'n': 129, 'workload': 's', 'count': 1000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.9020000000000003e-06, 'stim': 9.821000000000001e-06}
+[173/1090] gates {'n': 129, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00015039, 'stim': 0.0005243520000000001}
+[174/1090] gates {'n': 129, 'workload': 's', 'count': 50000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00015780900000000002, 'stim': 0.00047430400000000005}
+[175/1090] gates {'n': 129, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.2000000000000002e-07, 'stim': 3.1900000000000004e-07}
+[176/1090] gates {'n': 129, 'workload': 'cx', 'count': 1, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.2500000000000002e-07, 'stim': 6.2e-07}
+[177/1090] gates {'n': 129, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 6.954000000000001e-06, 'stim': 1.9369e-05}
+[178/1090] gates {'n': 129, 'workload': 'cx', 'count': 1000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 7.871e-06, 'stim': 2.0458e-05}
+[179/1090] gates {'n': 129, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000397589, 'stim': 0.00091107}
+[180/1090] gates {'n': 129, 'workload': 'cx', 'count': 50000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000450404, 'stim': 0.001005789}
+[181/1090] gates {'n': 129, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.11e-07, 'stim': 3.06e-07}
+[182/1090] gates {'n': 129, 'workload': 'mixed', 'count': 1, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.03e-07, 'stim': 6.100000000000001e-07}
+[183/1090] gates {'n': 129, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.830000000000001e-06, 'stim': 2.4259000000000003e-05}
+[184/1090] gates {'n': 129, 'workload': 'mixed', 'count': 1000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 8.225e-06, 'stim': 2.6718e-05}
+[185/1090] gates {'n': 129, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00044265900000000003, 'stim': 0.0014008500000000001}
+[186/1090] gates {'n': 129, 'workload': 'mixed', 'count': 50000, 'prep': 5160, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000411093, 'stim': 0.0012726810000000001}
+[187/1090] gates {'n': 256, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.0900000000000001e-07, 'stim': 2.72e-07}
+[188/1090] gates {'n': 256, 'workload': 'h', 'count': 1, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.0600000000000002e-07, 'stim': 4.2200000000000005e-07}
+[189/1090] gates {'n': 256, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.226e-06, 'stim': 5.957000000000001e-06}
+[190/1090] gates {'n': 256, 'workload': 'h', 'count': 1000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.971000000000001e-06, 'stim': 6.5000000000000004e-06}
+[191/1090] gates {'n': 256, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000214746, 'stim': 0.00027208500000000004}
+[192/1090] gates {'n': 256, 'workload': 'h', 'count': 50000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000202592, 'stim': 0.000292634}
+[193/1090] gates {'n': 256, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.1800000000000001e-07, 'stim': 3.0900000000000003e-07}
+[194/1090] gates {'n': 256, 'workload': 's', 'count': 1, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6900000000000002e-07, 'stim': 4.09e-07}
+[195/1090] gates {'n': 256, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.296e-06, 'stim': 1.0211000000000001e-05}
+[196/1090] gates {'n': 256, 'workload': 's', 'count': 1000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.552000000000001e-06, 'stim': 1.0102000000000001e-05}
+[197/1090] gates {'n': 256, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000174062, 'stim': 0.00046517300000000004}
+[198/1090] gates {'n': 256, 'workload': 's', 'count': 50000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000188932, 'stim': 0.0005116620000000001}
+[199/1090] gates {'n': 256, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.41e-07, 'stim': 3.5700000000000003e-07}
+[200/1090] gates {'n': 256, 'workload': 'cx', 'count': 1, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 8.87e-07, 'stim': 1.7130000000000002e-06}
+[201/1090] gates {'n': 256, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.622e-06, 'stim': 2.1110000000000003e-05}
+[202/1090] gates {'n': 256, 'workload': 'cx', 'count': 1000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.214e-06, 'stim': 1.9703e-05}
+[203/1090] gates {'n': 256, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00044493500000000004, 'stim': 0.001004246}
+[204/1090] gates {'n': 256, 'workload': 'cx', 'count': 50000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00044975600000000005, 'stim': 0.001000962}
+[205/1090] gates {'n': 256, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.42e-07, 'stim': 2.68e-07}
+[206/1090] gates {'n': 256, 'workload': 'mixed', 'count': 1, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 3.49e-07, 'stim': 5.54e-07}
+[207/1090] gates {'n': 256, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 5.375e-06, 'stim': 2.3666e-05}
+[208/1090] gates {'n': 256, 'workload': 'mixed', 'count': 1000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.552000000000001e-06, 'stim': 2.7279e-05}
+[209/1090] gates {'n': 256, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00043649400000000005, 'stim': 0.0013645620000000002}
+[210/1090] gates {'n': 256, 'workload': 'mixed', 'count': 50000, 'prep': 10240, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00044319600000000003, 'stim': 0.0013709400000000002}
+[211/1090] gates {'n': 1024, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.35e-07, 'stim': 3.1200000000000004e-07}
+[212/1090] gates {'n': 1024, 'workload': 'h', 'count': 1, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.171e-06, 'stim': 2.153e-06}
+[213/1090] gates {'n': 1024, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.199e-05, 'stim': 1.3869e-05}
+[214/1090] gates {'n': 1024, 'workload': 'h', 'count': 1000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.6363000000000002e-05, 'stim': 1.5555e-05}
+[215/1090] gates {'n': 1024, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000655775, 'stim': 0.000716715}
+[216/1090] gates {'n': 1024, 'workload': 'h', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000654973, 'stim': 0.0007234300000000001}
+[217/1090] gates {'n': 1024, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.3e-07, 'stim': 3.23e-07}
+[218/1090] gates {'n': 1024, 'workload': 's', 'count': 1, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.3690000000000001e-06, 'stim': 2.1520000000000003e-06}
+[219/1090] gates {'n': 1024, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.074e-05, 'stim': 1.7253000000000002e-05}
+[220/1090] gates {'n': 1024, 'workload': 's', 'count': 1000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4797e-05, 'stim': 1.8453e-05}
+[221/1090] gates {'n': 1024, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000575764, 'stim': 0.0008890590000000001}
+[222/1090] gates {'n': 1024, 'workload': 's', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0005570330000000001, 'stim': 0.000879303}
+[223/1090] gates {'n': 1024, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4e-07, 'stim': 3.4000000000000003e-07}
+[224/1090] gates {'n': 1024, 'workload': 'cx', 'count': 1, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.25e-06, 'stim': 1.883e-06}
+[225/1090] gates {'n': 1024, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.8536e-05, 'stim': 3.3636e-05}
+[226/1090] gates {'n': 1024, 'workload': 'cx', 'count': 1000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 4.1081e-05, 'stim': 4.173e-05}
+[227/1090] gates {'n': 1024, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0008961650000000001, 'stim': 0.0017773980000000001}
+[228/1090] gates {'n': 1024, 'workload': 'cx', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.001153888, 'stim': 0.0017842280000000001}
+[229/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.41e-07, 'stim': 3.6000000000000005e-07}
+[230/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 1, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.5100000000000002e-06, 'stim': 2.1580000000000003e-06}
+[231/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.4088000000000001e-05, 'stim': 3.5209e-05}
+[232/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 1000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.1403e-05, 'stim': 4.1264e-05}
+[233/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0007761580000000001, 'stim': 0.001897978}
+[234/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0008332200000000001, 'stim': 0.001838037}
+[235/1090] gates {'n': 4096, 'workload': 'h', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.985e-06, 'stim': 1.7360000000000002e-06}
+[236/1090] gates {'n': 4096, 'workload': 'h', 'count': 1, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.0425000000000001e-05, 'stim': 1.2623000000000001e-05}
+[237/1090] gates {'n': 4096, 'workload': 'h', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00021952900000000002, 'stim': 0.000202882}
+[238/1090] gates {'n': 4096, 'workload': 'h', 'count': 1000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000209459, 'stim': 9.512500000000001e-05}
+[239/1090] gates {'n': 4096, 'workload': 'h', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.003662095, 'stim': 0.004376546}
+[240/1090] gates {'n': 4096, 'workload': 'h', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0034512080000000003, 'stim': 0.004056007}
+[241/1090] gates {'n': 4096, 'workload': 's', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.599e-06, 'stim': 2.514e-06}
+[242/1090] gates {'n': 4096, 'workload': 's', 'count': 1, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.962e-06, 'stim': 1.2470000000000001e-05}
+[243/1090] gates {'n': 4096, 'workload': 's', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00014433500000000002, 'stim': 0.000212055}
+[244/1090] gates {'n': 4096, 'workload': 's', 'count': 1000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00021559900000000002, 'stim': 0.000101546}
+[245/1090] gates {'n': 4096, 'workload': 's', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.003271307, 'stim': 0.004693803}
+[246/1090] gates {'n': 4096, 'workload': 's', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0030304670000000002, 'stim': 0.004329879}
+[247/1090] gates {'n': 4096, 'workload': 'cx', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.7270000000000003e-06, 'stim': 4.929000000000001e-06}
+[248/1090] gates {'n': 4096, 'workload': 'cx', 'count': 1, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 1.0477e-05, 'stim': 1.3769000000000001e-05}
+[249/1090] gates {'n': 4096, 'workload': 'cx', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00023530000000000003, 'stim': 0.00044194400000000005}
+[250/1090] gates {'n': 4096, 'workload': 'cx', 'count': 1000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.00028002400000000003, 'stim': 0.000188001}
+[251/1090] gates {'n': 4096, 'workload': 'cx', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.005412234, 'stim': 0.008939866000000001}
+[252/1090] gates {'n': 4096, 'workload': 'cx', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.004929993000000001, 'stim': 0.008263538}
+[253/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 1, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 2.098e-06, 'stim': 4.1560000000000005e-06}
+[254/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 1, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 9.209000000000001e-06, 'stim': 1.3859e-05}
+[255/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 1000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000149108, 'stim': 0.000274366}
+[256/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 1000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.000248176, 'stim': 0.000149719}
+[257/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 50000, 'prep': 0, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0040210390000000006, 'stim': 0.007262908}
+[258/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'random'}
+  {'stabilizer': 0.0041101010000000006, 'stim': 0.0065673220000000004}
+[259/1090] gates {'n': 65, 'workload': 'cx', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.00022718600000000002, 'stim': 0.000922664}
+[260/1090] gates {'n': 65, 'workload': 'cx', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.00040214300000000004, 'stim': 0.0009431340000000001}
+[261/1090] gates {'n': 65, 'workload': 'mixed', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.00035359000000000003, 'stim': 0.00134894}
+[262/1090] gates {'n': 65, 'workload': 'mixed', 'count': 50000, 'prep': 2600, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.000406139, 'stim': 0.001351666}
+[263/1090] gates {'n': 1024, 'workload': 'cx', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.001032235, 'stim': 0.00168376}
+[264/1090] gates {'n': 1024, 'workload': 'cx', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.0007105760000000001, 'stim': 0.0012500830000000001}
+[265/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.000737049, 'stim': 0.0018498030000000001}
+[266/1090] gates {'n': 1024, 'workload': 'mixed', 'count': 50000, 'prep': 40960, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.0006423070000000001, 'stim': 0.0015853780000000001}
+[267/1090] gates {'n': 4096, 'workload': 'cx', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.004938307, 'stim': 0.008187414}
+[268/1090] gates {'n': 4096, 'workload': 'cx', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.0018759970000000001, 'stim': 0.0031237720000000004}
+[269/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'local'}
+  {'stabilizer': 0.004187174, 'stim': 0.006811641}
+[270/1090] gates {'n': 4096, 'workload': 'mixed', 'count': 50000, 'prep': 163840, 'seed': 731, 'locality': 'hotspot'}
+  {'stabilizer': 0.0017217950000000001, 'stim': 0.002682023}
+[271/1090] measurement {'n': 2, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.6400000000000003e-07, 'stim': 4.11e-07}
+[272/1090] measurement {'n': 2, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.6900000000000004e-07, 'stim': 2.75e-07}
+[273/1090] measurement {'n': 2, 'state': 'zero', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.97e-07, 'stim': 5.620000000000001e-07}
+[274/1090] measurement {'n': 2, 'state': 'zero', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.54e-07, 'stim': 3.9100000000000005e-07}
+[275/1090] measurement {'n': 2, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.0500000000000002e-07, 'stim': 3.373e-06}
+[276/1090] measurement {'n': 2, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.67e-07, 'stim': 3.3250000000000004e-06}
+[277/1090] measurement {'n': 2, 'state': 'plus', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.15e-07, 'stim': 3.447e-06}
+[278/1090] measurement {'n': 2, 'state': 'plus', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.1e-07, 'stim': 6.035000000000001e-06}
+[279/1090] measurement {'n': 2, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.0500000000000002e-07, 'stim': 3.721e-06}
+[280/1090] measurement {'n': 2, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.2400000000000002e-07, 'stim': 3.62e-06}
+[281/1090] measurement {'n': 2, 'state': 'bell', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.79e-07, 'stim': 3.2620000000000003e-06}
+[282/1090] measurement {'n': 2, 'state': 'bell', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.72e-07, 'stim': 3.473e-06}
+[283/1090] measurement {'n': 2, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.9900000000000002e-07, 'stim': 3.6110000000000002e-06}
+[284/1090] measurement {'n': 2, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.48e-07, 'stim': 3.1610000000000003e-06}
+[285/1090] measurement {'n': 2, 'state': 'ghz', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.56e-07, 'stim': 3.447e-06}
+[286/1090] measurement {'n': 2, 'state': 'ghz', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.11e-07, 'stim': 3.3570000000000002e-06}
+[287/1090] measurement {'n': 2, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.14e-07, 'stim': 3.2560000000000003e-06}
+[288/1090] measurement {'n': 2, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.29e-07, 'stim': 3.023e-06}
+[289/1090] measurement {'n': 2, 'state': 'cluster', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.08e-07, 'stim': 3.317e-06}
+[290/1090] measurement {'n': 2, 'state': 'cluster', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.16e-07, 'stim': 5.624000000000001e-06}
+[291/1090] measurement {'n': 2, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.14e-07, 'stim': 4.09e-07}
+[292/1090] measurement {'n': 2, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.8000000000000002e-07, 'stim': 2.32e-07}
+[293/1090] measurement {'n': 2, 'state': 'scrambled', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.3800000000000001e-07, 'stim': 3.4540000000000003e-06}
+[294/1090] measurement {'n': 2, 'state': 'scrambled', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.06e-07, 'stim': 7.517e-06}
+[295/1090] measurement {'n': 2, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.73e-07, 'stim': 4.28e-07}
+[296/1090] measurement {'n': 2, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.2900000000000003e-07, 'stim': 2.82e-07}
+[297/1090] measurement {'n': 2, 'state': 'deterministic', 'count': 2, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.51e-07, 'stim': 4.47e-07}
+[298/1090] measurement {'n': 2, 'state': 'deterministic', 'count': 2, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.3500000000000003e-07, 'stim': 3.8800000000000003e-07}
+[299/1090] measurement {'n': 63, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.0500000000000002e-07, 'stim': 3.42e-07}
+[300/1090] measurement {'n': 63, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.84e-07, 'stim': 2.79e-07}
+[301/1090] measurement {'n': 63, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.420000000000001e-07, 'stim': 9.450000000000001e-07}
+[302/1090] measurement {'n': 63, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.280000000000001e-07, 'stim': 1.2080000000000001e-06}
+[303/1090] measurement {'n': 63, 'state': 'zero', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.7370000000000002e-06, 'stim': 3.7590000000000003e-06}
+[304/1090] measurement {'n': 63, 'state': 'zero', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.955e-06, 'stim': 6.853e-06}
+[305/1090] measurement {'n': 63, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.35e-07, 'stim': 3.202e-06}
+[306/1090] measurement {'n': 63, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.85e-07, 'stim': 3.148e-06}
+[307/1090] measurement {'n': 63, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.3890000000000002e-06, 'stim': 4.292000000000001e-06}
+[308/1090] measurement {'n': 63, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.5040000000000001e-06, 'stim': 2.2518e-05}
+[309/1090] measurement {'n': 63, 'state': 'plus', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.708000000000001e-06, 'stim': 1.2115e-05}
+[310/1090] measurement {'n': 63, 'state': 'plus', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.0029e-05, 'stim': 0.000155551}
+[311/1090] measurement {'n': 63, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.32e-07, 'stim': 3.479e-06}
+[312/1090] measurement {'n': 63, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.87e-07, 'stim': 3.046e-06}
+[313/1090] measurement {'n': 63, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.5e-06, 'stim': 4.665e-06}
+[314/1090] measurement {'n': 63, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.579e-06, 'stim': 2.0526e-05}
+[315/1090] measurement {'n': 63, 'state': 'bell', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.4545e-05, 'stim': 1.081e-05}
+[316/1090] measurement {'n': 63, 'state': 'bell', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.5488e-05, 'stim': 8.1579e-05}
+[317/1090] measurement {'n': 63, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.3e-07, 'stim': 3.2840000000000002e-06}
+[318/1090] measurement {'n': 63, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.92e-07, 'stim': 2.9930000000000004e-06}
+[319/1090] measurement {'n': 63, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.007e-06, 'stim': 4.3190000000000005e-06}
+[320/1090] measurement {'n': 63, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.174e-06, 'stim': 3.944e-06}
+[321/1090] measurement {'n': 63, 'state': 'ghz', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.1538e-05, 'stim': 9.873e-06}
+[322/1090] measurement {'n': 63, 'state': 'ghz', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.2598e-05, 'stim': 9.542000000000001e-06}
+[323/1090] measurement {'n': 63, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.4000000000000003e-07, 'stim': 3.383e-06}
+[324/1090] measurement {'n': 63, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.96e-07, 'stim': 3.1260000000000002e-06}
+[325/1090] measurement {'n': 63, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.5300000000000002e-06, 'stim': 4.476e-06}
+[326/1090] measurement {'n': 63, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.506e-06, 'stim': 2.0869000000000003e-05}
+[327/1090] measurement {'n': 63, 'state': 'cluster', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.456e-06, 'stim': 1.2165000000000001e-05}
+[328/1090] measurement {'n': 63, 'state': 'cluster', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.0673000000000001e-05, 'stim': 0.000158739}
+[329/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 7.5e-07, 'stim': 4.086e-06}
+[330/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.240000000000001e-07, 'stim': 4.231000000000001e-06}
+[331/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.967e-06, 'stim': 8.803e-06}
+[332/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.063e-06, 'stim': 2.4841e-05}
+[333/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.3821e-05, 'stim': 4.4155e-05}
+[334/1090] measurement {'n': 63, 'state': 'scrambled', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.5627e-05, 'stim': 0.00018596000000000002}
+[335/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.5e-07, 'stim': 4.5300000000000005e-07}
+[336/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.54e-07, 'stim': 3.44e-07}
+[337/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.318e-06, 'stim': 9.84e-07}
+[338/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.309000000000001e-06, 'stim': 1.254e-06}
+[339/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 63, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.7991e-05, 'stim': 3.779e-06}
+[340/1090] measurement {'n': 63, 'state': 'deterministic', 'count': 63, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.9165000000000003e-05, 'stim': 7.173000000000001e-06}
+[341/1090] measurement {'n': 64, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.5200000000000003e-07, 'stim': 3.47e-07}
+[342/1090] measurement {'n': 64, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.0500000000000004e-07, 'stim': 4.7200000000000004e-07}
+[343/1090] measurement {'n': 64, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.620000000000001e-07, 'stim': 1.111e-06}
+[344/1090] measurement {'n': 64, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.51e-07, 'stim': 1.179e-06}
+[345/1090] measurement {'n': 64, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.6530000000000003e-06, 'stim': 3.734e-06}
+[346/1090] measurement {'n': 64, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.0710000000000005e-06, 'stim': 6.963e-06}
+[347/1090] measurement {'n': 64, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.54e-07, 'stim': 3.2740000000000003e-06}
+[348/1090] measurement {'n': 64, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.96e-07, 'stim': 3.0980000000000002e-06}
+[349/1090] measurement {'n': 64, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.4060000000000002e-06, 'stim': 4.3990000000000006e-06}
+[350/1090] measurement {'n': 64, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.508e-06, 'stim': 2.0588e-05}
+[351/1090] measurement {'n': 64, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.367e-06, 'stim': 1.1641000000000001e-05}
+[352/1090] measurement {'n': 64, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.0640000000000001e-05, 'stim': 0.000157934}
+[353/1090] measurement {'n': 64, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.56e-07, 'stim': 3.3810000000000003e-06}
+[354/1090] measurement {'n': 64, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.1e-07, 'stim': 3.14e-06}
+[355/1090] measurement {'n': 64, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.4710000000000002e-06, 'stim': 4.26e-06}
+[356/1090] measurement {'n': 64, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.664e-06, 'stim': 2.0635e-05}
+[357/1090] measurement {'n': 64, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.5975000000000002e-05, 'stim': 1.1636e-05}
+[358/1090] measurement {'n': 64, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.7672e-05, 'stim': 8.9889e-05}
+[359/1090] measurement {'n': 64, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.63e-07, 'stim': 3.3200000000000004e-06}
+[360/1090] measurement {'n': 64, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.73e-07, 'stim': 3.0420000000000003e-06}
+[361/1090] measurement {'n': 64, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.5860000000000003e-06, 'stim': 4.278e-06}
+[362/1090] measurement {'n': 64, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.7320000000000003e-06, 'stim': 4.094e-06}
+[363/1090] measurement {'n': 64, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.8997e-05, 'stim': 9.961e-06}
+[364/1090] measurement {'n': 64, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.0185e-05, 'stim': 9.702000000000001e-06}
+[365/1090] measurement {'n': 64, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.4300000000000004e-07, 'stim': 3.253e-06}
+[366/1090] measurement {'n': 64, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.3100000000000004e-07, 'stim': 3.176e-06}
+[367/1090] measurement {'n': 64, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.287e-06, 'stim': 1.8428e-05}
+[368/1090] measurement {'n': 64, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.5890000000000002e-06, 'stim': 2.2591e-05}
+[369/1090] measurement {'n': 64, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.422e-06, 'stim': 1.1654e-05}
+[370/1090] measurement {'n': 64, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.073e-05, 'stim': 0.00015829800000000002}
+[371/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 8.22e-07, 'stim': 4.3920000000000005e-06}
+[372/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.210000000000001e-07, 'stim': 3.9420000000000005e-06}
+[373/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.356e-06, 'stim': 9.131000000000001e-06}
+[374/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.6580000000000004e-06, 'stim': 2.6177e-05}
+[375/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.7709e-05, 'stim': 4.6857e-05}
+[376/1090] measurement {'n': 64, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.6282e-05, 'stim': 0.000198803}
+[377/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.5e-07, 'stim': 8.88e-07}
+[378/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.98e-07, 'stim': 2.8100000000000004e-07}
+[379/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.3140000000000004e-06, 'stim': 1.4510000000000002e-06}
+[380/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.475e-06, 'stim': 1.283e-06}
+[381/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.1732e-05, 'stim': 3.817e-06}
+[382/1090] measurement {'n': 64, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.3036e-05, 'stim': 7.361e-06}
+[383/1090] measurement {'n': 65, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.5200000000000003e-07, 'stim': 4.2e-07}
+[384/1090] measurement {'n': 65, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.2300000000000002e-07, 'stim': 2.5000000000000004e-07}
+[385/1090] measurement {'n': 65, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.06e-07, 'stim': 8.97e-07}
+[386/1090] measurement {'n': 65, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.960000000000001e-07, 'stim': 1.1410000000000002e-06}
+[387/1090] measurement {'n': 65, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.0080000000000003e-06, 'stim': 3.944e-06}
+[388/1090] measurement {'n': 65, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.243e-06, 'stim': 7.3290000000000005e-06}
+[389/1090] measurement {'n': 65, 'state': 'zero', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.046e-06, 'stim': 4.158000000000001e-06}
+[390/1090] measurement {'n': 65, 'state': 'zero', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.645e-06, 'stim': 7.556e-06}
+[391/1090] measurement {'n': 65, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.97e-07, 'stim': 3.5000000000000004e-06}
+[392/1090] measurement {'n': 65, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.2600000000000003e-07, 'stim': 3.2450000000000003e-06}
+[393/1090] measurement {'n': 65, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.8460000000000002e-06, 'stim': 5.309e-06}
+[394/1090] measurement {'n': 65, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.6430000000000002e-06, 'stim': 2.2416e-05}
+[395/1090] measurement {'n': 65, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.0170000000000001e-05, 'stim': 1.2603000000000001e-05}
+[396/1090] measurement {'n': 65, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.1139000000000001e-05, 'stim': 0.00016915200000000002}
+[397/1090] measurement {'n': 65, 'state': 'plus', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.1301e-05, 'stim': 1.2697e-05}
+[398/1090] measurement {'n': 65, 'state': 'plus', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.2221e-05, 'stim': 0.00017101800000000002}
+[399/1090] measurement {'n': 65, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.1200000000000004e-07, 'stim': 3.3570000000000002e-06}
+[400/1090] measurement {'n': 65, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.91e-07, 'stim': 3.024e-06}
+[401/1090] measurement {'n': 65, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.81e-06, 'stim': 4.74e-06}
+[402/1090] measurement {'n': 65, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.503e-06, 'stim': 2.4803000000000003e-05}
+[403/1090] measurement {'n': 65, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.6890000000000003e-05, 'stim': 1.1806e-05}
+[404/1090] measurement {'n': 65, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.69e-05, 'stim': 8.921800000000001e-05}
+[405/1090] measurement {'n': 65, 'state': 'bell', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.7373e-05, 'stim': 1.2099e-05}
+[406/1090] measurement {'n': 65, 'state': 'bell', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.7782e-05, 'stim': 9.0272e-05}
+[407/1090] measurement {'n': 65, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.96e-07, 'stim': 3.5900000000000004e-06}
+[408/1090] measurement {'n': 65, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.0300000000000005e-07, 'stim': 3.4610000000000004e-06}
+[409/1090] measurement {'n': 65, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.1220000000000003e-06, 'stim': 4.699e-06}
+[410/1090] measurement {'n': 65, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.9350000000000003e-06, 'stim': 4.396e-06}
+[411/1090] measurement {'n': 65, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.1114e-05, 'stim': 1.1022e-05}
+[412/1090] measurement {'n': 65, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.2257e-05, 'stim': 1.0587e-05}
+[413/1090] measurement {'n': 65, 'state': 'ghz', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.1347e-05, 'stim': 1.0778e-05}
+[414/1090] measurement {'n': 65, 'state': 'ghz', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.2469e-05, 'stim': 1.0768000000000001e-05}
+[415/1090] measurement {'n': 65, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.2700000000000005e-07, 'stim': 3.5560000000000003e-06}
+[416/1090] measurement {'n': 65, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.0500000000000004e-07, 'stim': 3.4500000000000004e-06}
+[417/1090] measurement {'n': 65, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.4900000000000001e-06, 'stim': 4.74e-06}
+[418/1090] measurement {'n': 65, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.466e-06, 'stim': 2.0961e-05}
+[419/1090] measurement {'n': 65, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.0061e-05, 'stim': 1.2498000000000001e-05}
+[420/1090] measurement {'n': 65, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.1560000000000001e-05, 'stim': 0.000168867}
+[421/1090] measurement {'n': 65, 'state': 'cluster', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.1245e-05, 'stim': 1.2787000000000001e-05}
+[422/1090] measurement {'n': 65, 'state': 'cluster', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.2798e-05, 'stim': 0.00017059800000000002}
+[423/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 7.750000000000001e-07, 'stim': 4.5890000000000004e-06}
+[424/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.520000000000001e-07, 'stim': 3.733e-06}
+[425/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.7980000000000005e-06, 'stim': 8.961000000000001e-06}
+[426/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.29e-06, 'stim': 2.7029e-05}
+[427/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.8819e-05, 'stim': 4.9362000000000006e-05}
+[428/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.773e-05, 'stim': 0.00019047900000000002}
+[429/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.8740000000000005e-05, 'stim': 4.9307e-05}
+[430/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.9455e-05, 'stim': 0.000203574}
+[431/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.660000000000001e-07, 'stim': 4.1200000000000004e-07}
+[432/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.310000000000001e-07, 'stim': 3.97e-07}
+[433/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.396e-06, 'stim': 1.1e-06}
+[434/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.591000000000001e-06, 'stim': 1.393e-06}
+[435/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.6267000000000004e-05, 'stim': 4.121e-06}
+[436/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.6508000000000004e-05, 'stim': 8.396e-06}
+[437/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 65, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.6249000000000005e-05, 'stim': 4.492e-06}
+[438/1090] measurement {'n': 65, 'state': 'deterministic', 'count': 65, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.4767e-05, 'stim': 7.457000000000001e-06}
+[439/1090] measurement {'n': 129, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.1700000000000002e-07, 'stim': 3.8400000000000005e-07}
+[440/1090] measurement {'n': 129, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.8800000000000002e-07, 'stim': 2.56e-07}
+[441/1090] measurement {'n': 129, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.92e-07, 'stim': 9.93e-07}
+[442/1090] measurement {'n': 129, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.13e-07, 'stim': 1.165e-06}
+[443/1090] measurement {'n': 129, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.243e-06, 'stim': 3.8620000000000005e-06}
+[444/1090] measurement {'n': 129, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.386e-06, 'stim': 7.3510000000000004e-06}
+[445/1090] measurement {'n': 129, 'state': 'zero', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.787e-06, 'stim': 8.141e-06}
+[446/1090] measurement {'n': 129, 'state': 'zero', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 8.712e-06, 'stim': 1.4680000000000002e-05}
+[447/1090] measurement {'n': 129, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.66e-07, 'stim': 1.1914000000000001e-05}
+[448/1090] measurement {'n': 129, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.41e-07, 'stim': 1.1293e-05}
+[449/1090] measurement {'n': 129, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.7380000000000003e-06, 'stim': 1.2549000000000001e-05}
+[450/1090] measurement {'n': 129, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.3030000000000002e-06, 'stim': 8.172000000000001e-05}
+[451/1090] measurement {'n': 129, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.7827e-05, 'stim': 2.2485000000000002e-05}
+[452/1090] measurement {'n': 129, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.0902e-05, 'stim': 0.0007000460000000001}
+[453/1090] measurement {'n': 129, 'state': 'plus', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.2021000000000004e-05, 'stim': 3.4493e-05}
+[454/1090] measurement {'n': 129, 'state': 'plus', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.6909e-05, 'stim': 0.0013703650000000001}
+[455/1090] measurement {'n': 129, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.210000000000001e-07, 'stim': 1.2213000000000001e-05}
+[456/1090] measurement {'n': 129, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.42e-07, 'stim': 1.0958e-05}
+[457/1090] measurement {'n': 129, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.6590000000000003e-06, 'stim': 1.325e-05}
+[458/1090] measurement {'n': 129, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.449e-06, 'stim': 8.691100000000001e-05}
+[459/1090] measurement {'n': 129, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.3308e-05, 'stim': 2.3303e-05}
+[460/1090] measurement {'n': 129, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.5275e-05, 'stim': 0.000515368}
+[461/1090] measurement {'n': 129, 'state': 'bell', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.6037000000000006e-05, 'stim': 3.3787e-05}
+[462/1090] measurement {'n': 129, 'state': 'bell', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.6641e-05, 'stim': 0.000688483}
+[463/1090] measurement {'n': 129, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.09e-07, 'stim': 1.0897000000000001e-05}
+[464/1090] measurement {'n': 129, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.96e-07, 'stim': 1.0744e-05}
+[465/1090] measurement {'n': 129, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 6.416e-06, 'stim': 1.2509e-05}
+[466/1090] measurement {'n': 129, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.3030000000000005e-06, 'stim': 1.1609e-05}
+[467/1090] measurement {'n': 129, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.919e-05, 'stim': 2.0644e-05}
+[468/1090] measurement {'n': 129, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.4202e-05, 'stim': 1.9358e-05}
+[469/1090] measurement {'n': 129, 'state': 'ghz', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000100309, 'stim': 3.0177000000000003e-05}
+[470/1090] measurement {'n': 129, 'state': 'ghz', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00010129300000000001, 'stim': 2.4132000000000002e-05}
+[471/1090] measurement {'n': 129, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.7400000000000004e-07, 'stim': 1.1589e-05}
+[472/1090] measurement {'n': 129, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.3600000000000004e-07, 'stim': 1.1467e-05}
+[473/1090] measurement {'n': 129, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.3440000000000003e-06, 'stim': 1.3451e-05}
+[474/1090] measurement {'n': 129, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.474e-06, 'stim': 8.856800000000001e-05}
+[475/1090] measurement {'n': 129, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.5927000000000002e-05, 'stim': 2.2753e-05}
+[476/1090] measurement {'n': 129, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.8005e-05, 'stim': 0.0006580640000000001}
+[477/1090] measurement {'n': 129, 'state': 'cluster', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.4157000000000005e-05, 'stim': 3.6638000000000004e-05}
+[478/1090] measurement {'n': 129, 'state': 'cluster', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.3973e-05, 'stim': 0.0013347390000000002}
+[479/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.6090000000000002e-06, 'stim': 1.4007000000000002e-05}
+[480/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.48e-06, 'stim': 1.2312e-05}
+[481/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.1236e-05, 'stim': 2.3498e-05}
+[482/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.1224000000000001e-05, 'stim': 9.534900000000001e-05}
+[483/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 8.5598e-05, 'stim': 9.5937e-05}
+[484/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 8.9196e-05, 'stim': 0.0007749090000000001}
+[485/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000170581, 'stim': 0.00018339200000000002}
+[486/1090] measurement {'n': 129, 'state': 'scrambled', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000192962, 'stim': 0.0017203070000000001}
+[487/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.39e-06, 'stim': 4.44e-07}
+[488/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.3130000000000002e-06, 'stim': 2.9500000000000003e-07}
+[489/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.1576e-05, 'stim': 1.577e-06}
+[490/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.1024000000000002e-05, 'stim': 1.187e-06}
+[491/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.142e-05, 'stim': 3.941e-06}
+[492/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 9.0475e-05, 'stim': 7.677000000000001e-06}
+[493/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 129, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000182222, 'stim': 7.547000000000001e-06}
+[494/1090] measurement {'n': 129, 'state': 'deterministic', 'count': 129, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000177516, 'stim': 1.5612000000000002e-05}
+[495/1090] measurement {'n': 256, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.9300000000000002e-07, 'stim': 4.28e-07}
+[496/1090] measurement {'n': 256, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.7600000000000001e-07, 'stim': 2.28e-07}
+[497/1090] measurement {'n': 256, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 9.69e-07, 'stim': 8.8e-07}
+[498/1090] measurement {'n': 256, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 8.780000000000001e-07, 'stim': 1.0420000000000001e-06}
+[499/1090] measurement {'n': 256, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.878e-06, 'stim': 3.801e-06}
+[500/1090] measurement {'n': 256, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.0020000000000006e-06, 'stim': 6.916e-06}
+[501/1090] measurement {'n': 256, 'state': 'zero', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.4186000000000001e-05, 'stim': 1.2712000000000001e-05}
+[502/1090] measurement {'n': 256, 'state': 'zero', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.8798000000000002e-05, 'stim': 2.5947e-05}
+[503/1090] measurement {'n': 256, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 7.660000000000001e-07, 'stim': 2.3865000000000003e-05}
+[504/1090] measurement {'n': 256, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.63e-07, 'stim': 2.5136e-05}
+[505/1090] measurement {'n': 256, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.761000000000001e-06, 'stim': 2.6143e-05}
+[506/1090] measurement {'n': 256, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.805000000000001e-06, 'stim': 0.000184651}
+[507/1090] measurement {'n': 256, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.2548e-05, 'stim': 4.0413e-05}
+[508/1090] measurement {'n': 256, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.8475e-05, 'stim': 0.0014379050000000002}
+[509/1090] measurement {'n': 256, 'state': 'plus', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000127401, 'stim': 9.1116e-05}
+[510/1090] measurement {'n': 256, 'state': 'plus', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00014945100000000002, 'stim': 0.005861125}
+[511/1090] measurement {'n': 256, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 7.91e-07, 'stim': 2.3856e-05}
+[512/1090] measurement {'n': 256, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 8.060000000000001e-07, 'stim': 2.4357e-05}
+[513/1090] measurement {'n': 256, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.296000000000001e-06, 'stim': 2.7169e-05}
+[514/1090] measurement {'n': 256, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.067e-06, 'stim': 0.00017993700000000002}
+[515/1090] measurement {'n': 256, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.7183e-05, 'stim': 4.0952000000000004e-05}
+[516/1090] measurement {'n': 256, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.7567e-05, 'stim': 0.0013367750000000001}
+[517/1090] measurement {'n': 256, 'state': 'bell', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000202165, 'stim': 8.8355e-05}
+[518/1090] measurement {'n': 256, 'state': 'bell', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00021695000000000002, 'stim': 0.002905192}
+[519/1090] measurement {'n': 256, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.044e-06, 'stim': 2.3518e-05}
+[520/1090] measurement {'n': 256, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.023e-06, 'stim': 2.3706000000000003e-05}
+[521/1090] measurement {'n': 256, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.3928000000000001e-05, 'stim': 2.6340000000000002e-05}
+[522/1090] measurement {'n': 256, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.7177000000000002e-05, 'stim': 2.9484e-05}
+[523/1090] measurement {'n': 256, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00011342600000000001, 'stim': 3.8732e-05}
+[524/1090] measurement {'n': 256, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00011744000000000001, 'stim': 2.9690000000000002e-05}
+[525/1090] measurement {'n': 256, 'state': 'ghz', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00043384600000000005, 'stim': 8.3273e-05}
+[526/1090] measurement {'n': 256, 'state': 'ghz', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000491125, 'stim': 5.1697e-05}
+[527/1090] measurement {'n': 256, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 8.920000000000001e-07, 'stim': 2.5367000000000003e-05}
+[528/1090] measurement {'n': 256, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 8.12e-07, 'stim': 2.4547e-05}
+[529/1090] measurement {'n': 256, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.144e-06, 'stim': 2.6861000000000003e-05}
+[530/1090] measurement {'n': 256, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 5.086e-06, 'stim': 0.00019133300000000002}
+[531/1090] measurement {'n': 256, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.2242e-05, 'stim': 4.0788e-05}
+[532/1090] measurement {'n': 256, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.13e-05, 'stim': 0.001540256}
+[533/1090] measurement {'n': 256, 'state': 'cluster', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00013899300000000002, 'stim': 9.642400000000001e-05}
+[534/1090] measurement {'n': 256, 'state': 'cluster', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000163575, 'stim': 0.006307229}
+[535/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.031e-06, 'stim': 2.9276000000000002e-05}
+[536/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.821e-06, 'stim': 2.7526e-05}
+[537/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.6839000000000002e-05, 'stim': 4.7383000000000004e-05}
+[538/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.5888e-05, 'stim': 0.000201522}
+[539/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000218015, 'stim': 0.00020001100000000002}
+[540/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000208383, 'stim': 0.0016537580000000002}
+[541/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0007432290000000001, 'stim': 0.00069916}
+[542/1090] measurement {'n': 256, 'state': 'scrambled', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0007503470000000001, 'stim': 0.006810359}
+[543/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.24e-06, 'stim': 5.08e-07}
+[544/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.041e-06, 'stim': 3.8400000000000005e-07}
+[545/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.3339e-05, 'stim': 2.5860000000000003e-06}
+[546/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.2169e-05, 'stim': 2.03e-06}
+[547/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000249019, 'stim': 4.5160000000000005e-06}
+[548/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00023919000000000002, 'stim': 7.51e-06}
+[549/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000961165, 'stim': 1.6171e-05}
+[550/1090] measurement {'n': 256, 'state': 'deterministic', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0009622420000000001, 'stim': 2.7283000000000003e-05}
+[551/1090] measurement {'n': 1024, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.18e-07, 'stim': 5.03e-07}
+[552/1090] measurement {'n': 1024, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.5200000000000003e-07, 'stim': 2.89e-07}
+[553/1090] measurement {'n': 1024, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.08e-06, 'stim': 8.8e-07}
+[554/1090] measurement {'n': 1024, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.034e-06, 'stim': 1.2650000000000002e-06}
+[555/1090] measurement {'n': 1024, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.782000000000001e-06, 'stim': 3.9350000000000004e-06}
+[556/1090] measurement {'n': 1024, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.167e-06, 'stim': 7.3460000000000005e-06}
+[557/1090] measurement {'n': 1024, 'state': 'zero', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.3963e-05, 'stim': 1.4921000000000002e-05}
+[558/1090] measurement {'n': 1024, 'state': 'zero', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.8721e-05, 'stim': 3.0304000000000003e-05}
+[559/1090] measurement {'n': 1024, 'state': 'zero', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000101426, 'stim': 6.1148e-05}
+[560/1090] measurement {'n': 1024, 'state': 'zero', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00011840800000000001, 'stim': 0.000106809}
+[561/1090] measurement {'n': 1024, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.402e-06, 'stim': 0.00021230900000000002}
+[562/1090] measurement {'n': 1024, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.045e-06, 'stim': 0.00020986300000000002}
+[563/1090] measurement {'n': 1024, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.4004000000000003e-05, 'stim': 0.00022067700000000002}
+[564/1090] measurement {'n': 1024, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.4226e-05, 'stim': 0.00168438}
+[565/1090] measurement {'n': 1024, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000187972, 'stim': 0.000267121}
+[566/1090] measurement {'n': 1024, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00020970100000000002, 'stim': 0.015089917000000001}
+[567/1090] measurement {'n': 1024, 'state': 'plus', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0008012140000000001, 'stim': 0.000475487}
+[568/1090] measurement {'n': 1024, 'state': 'plus', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00082319, 'stim': 0.057611401000000007}
+[569/1090] measurement {'n': 1024, 'state': 'plus', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.002982021, 'stim': 0.0011395320000000002}
+[570/1090] measurement {'n': 1024, 'state': 'plus', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.003239852, 'stim': 0.24300357200000003}
+[571/1090] measurement {'n': 1024, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.3010000000000002e-06, 'stim': 0.00022718800000000002}
+[572/1090] measurement {'n': 1024, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.5680000000000004e-06, 'stim': 0.000234557}
+[573/1090] measurement {'n': 1024, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.5744000000000003e-05, 'stim': 0.00023671100000000002}
+[574/1090] measurement {'n': 1024, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.8060000000000002e-05, 'stim': 0.0018483660000000002}
+[575/1090] measurement {'n': 1024, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000229647, 'stim': 0.00035298100000000004}
+[576/1090] measurement {'n': 1024, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000205104, 'stim': 0.01368475}
+[577/1090] measurement {'n': 1024, 'state': 'bell', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000833699, 'stim': 0.000459624}
+[578/1090] measurement {'n': 1024, 'state': 'bell', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0008847540000000001, 'stim': 0.051679614000000006}
+[579/1090] measurement {'n': 1024, 'state': 'bell', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.003981278, 'stim': 0.001095171}
+[580/1090] measurement {'n': 1024, 'state': 'bell', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.004055685, 'stim': 0.123458724}
+[581/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.078000000000001e-06, 'stim': 0.00021151}
+[582/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.286e-06, 'stim': 0.000220169}
+[583/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000111235, 'stim': 0.000229776}
+[584/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000105489, 'stim': 0.00021122300000000002}
+[585/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000921151, 'stim': 0.000262509}
+[586/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000922831, 'stim': 0.00022458700000000002}
+[587/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.003946876, 'stim': 0.00042535}
+[588/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0040525380000000005, 'stim': 0.000285101}
+[589/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.017456241, 'stim': 0.001153146}
+[590/1090] measurement {'n': 1024, 'state': 'ghz', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.016105997, 'stim': 0.00038157400000000003}
+[591/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.693e-06, 'stim': 0.00022925700000000002}
+[592/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.2130000000000004e-06, 'stim': 0.000213667}
+[593/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.5642000000000003e-05, 'stim': 0.000233632}
+[594/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 2.6145e-05, 'stim': 0.0018825320000000001}
+[595/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000197931, 'stim': 0.000286127}
+[596/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000205684, 'stim': 0.014368802000000002}
+[597/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0007928550000000001, 'stim': 0.00045421700000000003}
+[598/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000777663, 'stim': 0.057257647}
+[599/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0029958420000000003, 'stim': 0.0011119650000000001}
+[600/1090] measurement {'n': 1024, 'state': 'cluster', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0032299380000000003, 'stim': 0.24170898300000002}
+[601/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 3.1284e-05, 'stim': 0.000231028}
+[602/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.5467000000000004e-05, 'stim': 0.00023772000000000002}
+[603/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00024946500000000004, 'stim': 0.000380026}
+[604/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000248765, 'stim': 0.001911717}
+[605/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0019056040000000002, 'stim': 0.001284337}
+[606/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.002026192, 'stim': 0.015546364000000002}
+[607/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00764088, 'stim': 0.0047227910000000005}
+[608/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.008290793000000001, 'stim': 0.06375520900000001}
+[609/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.022964368000000002, 'stim': 0.018684865000000002}
+[610/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0240941, 'stim': 0.263189801}
+[611/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 5.9788000000000004e-05, 'stim': 2.787e-06}
+[612/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 6.0039000000000006e-05, 'stim': 1.6760000000000001e-06}
+[613/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00045701700000000005, 'stim': 3.7e-06}
+[614/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00046335800000000003, 'stim': 3.5270000000000003e-06}
+[615/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0035112740000000004, 'stim': 6.925000000000001e-06}
+[616/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00371156, 'stim': 1.0329e-05}
+[617/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.01474395, 'stim': 2.0695e-05}
+[618/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.014503395, 'stim': 4.2012000000000004e-05}
+[619/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 1024, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.065061298, 'stim': 7.333e-05}
+[620/1090] measurement {'n': 1024, 'state': 'deterministic', 'count': 1024, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.061687159000000005, 'stim': 0.000125477}
+[621/1090] measurement {'n': 4096, 'state': 'zero', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 2.435e-06, 'stim': 3.5910000000000004e-06}
+[622/1090] measurement {'n': 4096, 'state': 'zero', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.9810000000000005e-06, 'stim': 5.066e-06}
+[623/1090] measurement {'n': 4096, 'state': 'zero', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.057e-06, 'stim': 4.626e-06}
+[624/1090] measurement {'n': 4096, 'state': 'zero', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 3.682e-06, 'stim': 3.1040000000000003e-06}
+[625/1090] measurement {'n': 4096, 'state': 'zero', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.9018e-05, 'stim': 9.35e-06}
+[626/1090] measurement {'n': 4096, 'state': 'zero', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.9655e-05, 'stim': 1.1203000000000001e-05}
+[627/1090] measurement {'n': 4096, 'state': 'zero', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 8.4468e-05, 'stim': 4.5369000000000006e-05}
+[628/1090] measurement {'n': 4096, 'state': 'zero', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.397400000000001e-05, 'stim': 3.6192e-05}
+[629/1090] measurement {'n': 4096, 'state': 'zero', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000985697, 'stim': 0.000269607}
+[630/1090] measurement {'n': 4096, 'state': 'zero', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.001055888, 'stim': 0.00047505800000000004}
+[631/1090] measurement {'n': 4096, 'state': 'plus', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.4907e-05, 'stim': 0.003998223}
+[632/1090] measurement {'n': 4096, 'state': 'plus', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.5281e-05, 'stim': 0.003910591000000001}
+[633/1090] measurement {'n': 4096, 'state': 'plus', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00031272600000000004, 'stim': 0.004255869000000001}
+[634/1090] measurement {'n': 4096, 'state': 'plus', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000306338, 'stim': 0.033407604}
+[635/1090] measurement {'n': 4096, 'state': 'plus', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.002194323, 'stim': 0.004264297}
+[636/1090] measurement {'n': 4096, 'state': 'plus', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.002232913, 'stim': 0.26843372800000004}
+[637/1090] measurement {'n': 4096, 'state': 'plus', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.008959921000000001, 'stim': 0.005500971}
+[638/1090] measurement {'n': 4096, 'state': 'plus', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00924978, 'stim': 1.131938582}
+[639/1090] measurement {'n': 4096, 'state': 'plus', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.147936688, 'stim': 0.022568707}
+[640/1090] measurement {'n': 4096, 'state': 'plus', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.141620101, 'stim': 18.599046592}
+[641/1090] measurement {'n': 4096, 'state': 'bell', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.4002e-05, 'stim': 0.003934081}
+[642/1090] measurement {'n': 4096, 'state': 'bell', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.1713000000000005e-05, 'stim': 0.003960738}
+[643/1090] measurement {'n': 4096, 'state': 'bell', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00031152800000000004, 'stim': 0.004306153}
+[644/1090] measurement {'n': 4096, 'state': 'bell', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000310034, 'stim': 0.034238695}
+[645/1090] measurement {'n': 4096, 'state': 'bell', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.002187249, 'stim': 0.004179431}
+[646/1090] measurement {'n': 4096, 'state': 'bell', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.002349668, 'stim': 0.263349475}
+[647/1090] measurement {'n': 4096, 'state': 'bell', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.009222161000000001, 'stim': 0.00544412}
+[648/1090] measurement {'n': 4096, 'state': 'bell', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.009038828, 'stim': 1.0831803740000001}
+[649/1090] measurement {'n': 4096, 'state': 'bell', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.12106175000000001, 'stim': 0.02127366}
+[650/1090] measurement {'n': 4096, 'state': 'bell', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.11592893000000001, 'stim': 9.080458353000001}
+[651/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 7.7595e-05, 'stim': 0.005588747000000001}
+[652/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 7.621e-05, 'stim': 0.004246599}
+[653/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0008746720000000001, 'stim': 0.004492206}
+[654/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0007859200000000001, 'stim': 0.004346863}
+[655/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.006452994, 'stim': 0.005094183}
+[656/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.007293451, 'stim': 0.005827799000000001}
+[657/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.026012581, 'stim': 0.006794226}
+[658/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.026653012, 'stim': 0.004591147}
+[659/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.402219323, 'stim': 0.022091333}
+[660/1090] measurement {'n': 4096, 'state': 'ghz', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.434778567, 'stim': 0.005130754}
+[661/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.6301e-05, 'stim': 0.004260795}
+[662/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.6512000000000005e-05, 'stim': 0.004248166}
+[663/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000315071, 'stim': 0.0047015170000000005}
+[664/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000320288, 'stim': 0.033876891}
+[665/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.002580218, 'stim': 0.0049329790000000005}
+[666/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0023872660000000003, 'stim': 0.30728911400000003}
+[667/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.009082977, 'stim': 0.005171052000000001}
+[668/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.009256644000000001, 'stim': 1.2259782320000001}
+[669/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.14064110600000002, 'stim': 0.023021465}
+[670/1090] measurement {'n': 4096, 'state': 'cluster', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.13012125100000002, 'stim': 17.748473863}
+[671/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.000450687, 'stim': 0.004184274}
+[672/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000444396, 'stim': 0.004334112}
+[673/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.0035861440000000003, 'stim': 0.006174331000000001}
+[674/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.00361341, 'stim': 0.034092733}
+[675/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.030497695000000002, 'stim': 0.019306369}
+[676/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.028335310000000002, 'stim': 0.278849776}
+[677/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.117597612, 'stim': 0.056285519000000006}
+[678/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.11780261400000001, 'stim': 1.1078970590000001}
+[679/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 1.355791843, 'stim': 0.886536151}
+[680/1090] measurement {'n': 4096, 'state': 'scrambled', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 1.2794023350000001, 'stim': 18.290200627}
+[681/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 1, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.00100018, 'stim': 2.9939000000000003e-05}
+[682/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 1, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.000944901, 'stim': 1.7762e-05}
+[683/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 8, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.007944742000000001, 'stim': 3.1686e-05}
+[684/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 8, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.007931665000000001, 'stim': 2.2631e-05}
+[685/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 64, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.066547592, 'stim': 3.953e-05}
+[686/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 64, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.0660763, 'stim': 4.1412e-05}
+[687/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 256, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 0.26040587200000004, 'stim': 5.9198000000000005e-05}
+[688/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 256, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 0.264690912, 'stim': 8.767800000000001e-05}
+[689/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 4096, 'mode': 'native', 'seed': 731}
+  {'stabilizer': 4.228929041000001, 'stim': 0.000344622}
+[690/1090] measurement {'n': 4096, 'state': 'deterministic', 'count': 4096, 'mode': 'sequential', 'seed': 731}
+  {'stabilizer': 4.277851019, 'stim': 0.0006160790000000001}
+[691/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 0}
+  {'stabilizer': 8.750000000000001e-07, 'stim': 4.232e-06}
+[692/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 0}
+  {'stabilizer': 7.110000000000001e-07, 'stim': 3.898000000000001e-06}
+[693/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 0}
+  {'stabilizer': 4.2513000000000004e-05, 'stim': 4.8693e-05}
+[694/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 0}
+  {'stabilizer': 4.5808000000000006e-05, 'stim': 0.000203947}
+[695/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 2026}
+  {'stabilizer': 1.1600000000000001e-06, 'stim': 5.940000000000001e-06}
+[696/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 2026}
+  {'stabilizer': 8.42e-07, 'stim': 3.7930000000000004e-06}
+[697/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 2026}
+  {'stabilizer': 4.0003e-05, 'stim': 4.7907e-05}
+[698/1090] measurement {'n': 65, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 2026}
+  {'stabilizer': 4.0031000000000003e-05, 'stim': 0.000205209}
+[699/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 0}
+  {'stabilizer': 3.3690000000000004e-05, 'stim': 0.00024817700000000003}
+[700/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 0}
+  {'stabilizer': 3.2733e-05, 'stim': 0.000246577}
+[701/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 0}
+  {'stabilizer': 0.002023485, 'stim': 0.001361655}
+[702/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 0}
+  {'stabilizer': 0.0020522540000000003, 'stim': 0.016287416000000002}
+[703/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'native', 'seed': 2026}
+  {'stabilizer': 4.0187e-05, 'stim': 0.00026323700000000004}
+[704/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 1, 'mode': 'sequential', 'seed': 2026}
+  {'stabilizer': 3.4042000000000004e-05, 'stim': 0.000249911}
+[705/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'native', 'seed': 2026}
+  {'stabilizer': 0.003051611, 'stim': 0.001767387}
+[706/1090] measurement {'n': 1024, 'state': 'scrambled', 'count': 64, 'mode': 'sequential', 'seed': 2026}
+  {'stabilizer': 0.0020274530000000002, 'stim': 0.016476456}
+[707/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.8100000000000004e-07, 'stim': 3.671e-06}
+[708/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.64e-07, 'stim': 3.783e-06}
+[709/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.1180000000000001e-05, 'stim': 0.000165279}
+[710/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.0538000000000001e-05, 'stim': 1.2179000000000001e-05}
+[711/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.93e-07, 'stim': 3.9130000000000005e-06}
+[712/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 5.29e-07, 'stim': 4.228e-06}
+[713/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.3363e-05, 'stim': 0.00017381900000000002}
+[714/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.3249000000000001e-05, 'stim': 1.2458e-05}
+[715/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.46e-07, 'stim': 5.71e-07}
+[716/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.6000000000000005e-07, 'stim': 8.070000000000001e-07}
+[717/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.582e-06, 'stim': 2.892e-06}
+[718/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.768e-06, 'stim': 3.227e-06}
+[719/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.58e-07, 'stim': 3.565e-06}
+[720/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.33e-07, 'stim': 3.831e-06}
+[721/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.3528000000000002e-05, 'stim': 0.00017472400000000002}
+[722/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.2902000000000001e-05, 'stim': 1.2814000000000001e-05}
+[723/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.4600000000000005e-07, 'stim': 4.542e-06}
+[724/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.0700000000000003e-07, 'stim': 3.795e-06}
+[725/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.6910000000000002e-05, 'stim': 8.691e-05}
+[726/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.6482000000000002e-05, 'stim': 1.0821e-05}
+[727/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.61e-07, 'stim': 3.767e-06}
+[728/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.5800000000000005e-07, 'stim': 3.9250000000000005e-06}
+[729/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.0652e-05, 'stim': 9.776600000000001e-05}
+[730/1090] protocol {'n': 65, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.1991e-05, 'stim': 1.3474e-05}
+[731/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.78e-07, 'stim': 3.7010000000000002e-06}
+[732/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 7.550000000000001e-07, 'stim': 4.3310000000000005e-06}
+[733/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.095e-05, 'stim': 0.000163334}
+[734/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.1162000000000001e-05, 'stim': 1.2074e-05}
+[735/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 6.25e-07, 'stim': 3.826e-06}
+[736/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 6.970000000000001e-07, 'stim': 3.739e-06}
+[737/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.5865e-05, 'stim': 0.000177872}
+[738/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.5693e-05, 'stim': 1.5004e-05}
+[739/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.4100000000000004e-07, 'stim': 3.75e-06}
+[740/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.02e-07, 'stim': 3.924e-06}
+[741/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.2597000000000002e-05, 'stim': 0.000167422}
+[742/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.2715000000000001e-05, 'stim': 1.4264000000000001e-05}
+[743/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.77e-07, 'stim': 4.16e-06}
+[744/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.4e-07, 'stim': 3.721e-06}
+[745/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.5907000000000002e-05, 'stim': 0.000177481}
+[746/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.5816000000000002e-05, 'stim': 1.6266e-05}
+[747/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.2900000000000001e-06, 'stim': 4.797e-06}
+[748/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.001e-06, 'stim': 4.6690000000000005e-06}
+[749/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.7839e-05, 'stim': 0.00019052600000000003}
+[750/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.3724000000000004e-05, 'stim': 4.3027e-05}
+[751/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.0000000000000002e-06, 'stim': 4.551e-06}
+[752/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 8.550000000000001e-07, 'stim': 4.204e-06}
+[753/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.2678e-05, 'stim': 0.000196156}
+[754/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.1614000000000005e-05, 'stim': 4.0238e-05}
+[755/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 5.98e-07, 'stim': 3.927e-06}
+[756/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 5.65e-07, 'stim': 4.326000000000001e-06}
+[757/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.0217e-05, 'stim': 0.00017750100000000002}
+[758/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.0463e-05, 'stim': 2.4251000000000002e-05}
+[759/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 5.96e-07, 'stim': 4.318e-06}
+[760/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 8.08e-07, 'stim': 4.014e-06}
+[761/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.3378000000000002e-05, 'stim': 0.00019659400000000002}
+[762/1090] protocol {'n': 65, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.3309e-05, 'stim': 3.9790000000000004e-05}
+[763/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.7690000000000003e-06, 'stim': 0.000227091}
+[764/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.3810000000000003e-06, 'stim': 0.00022310300000000002}
+[765/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00020990100000000002, 'stim': 0.015159658000000001}
+[766/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000208509, 'stim': 0.00030495200000000004}
+[767/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.6680000000000003e-06, 'stim': 0.00022708300000000002}
+[768/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.678e-06, 'stim': 0.00022617600000000002}
+[769/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00021878700000000002, 'stim': 0.014937362000000001}
+[770/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000218346, 'stim': 0.000295953}
+[771/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.49e-07, 'stim': 6.36e-07}
+[772/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.7900000000000005e-07, 'stim': 8.230000000000001e-07}
+[773/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 8.727000000000001e-06, 'stim': 3.954000000000001e-06}
+[774/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 8.038e-06, 'stim': 7.096e-06}
+[775/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.056000000000001e-06, 'stim': 0.00023692}
+[776/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.7600000000000004e-06, 'stim': 0.00022845500000000002}
+[777/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00021485200000000002, 'stim': 0.01523034}
+[778/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000211565, 'stim': 0.000296301}
+[779/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.806e-06, 'stim': 0.00022825200000000002}
+[780/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.6970000000000003e-06, 'stim': 0.000224782}
+[781/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000215863, 'stim': 0.014954057000000002}
+[782/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000212036, 'stim': 0.000294721}
+[783/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.428000000000001e-06, 'stim': 0.000348751}
+[784/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.948e-06, 'stim': 0.000244442}
+[785/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00027593, 'stim': 0.01579517}
+[786/1090] protocol {'n': 1024, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000214851, 'stim': 0.000299716}
+[787/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.3420000000000004e-06, 'stim': 0.000224879}
+[788/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.103e-06, 'stim': 0.000235292}
+[789/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00022371600000000002, 'stim': 0.015590975000000002}
+[790/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000217943, 'stim': 0.00030765}
+[791/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 7.016e-06, 'stim': 0.00023853800000000003}
+[792/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 8.549e-06, 'stim': 0.00027825800000000003}
+[793/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00044390900000000004, 'stim': 0.018992136}
+[794/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000223221, 'stim': 0.00029992800000000003}
+[795/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.963e-06, 'stim': 0.000228082}
+[796/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.434e-06, 'stim': 0.000223653}
+[797/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000217609, 'stim': 0.014986642000000001}
+[798/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00020639100000000002, 'stim': 0.000300006}
+[799/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.7690000000000003e-06, 'stim': 0.00022521200000000003}
+[800/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.923e-06, 'stim': 0.00025206}
+[801/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000263601, 'stim': 0.016000297}
+[802/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00023655300000000002, 'stim': 0.00032160200000000004}
+[803/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.0058e-05, 'stim': 0.00027876800000000004}
+[804/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.5645e-05, 'stim': 0.000260942}
+[805/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0020273120000000003, 'stim': 0.015976980000000002}
+[806/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0021158170000000003, 'stim': 0.0012110320000000001}
+[807/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.3986e-05, 'stim': 0.000246281}
+[808/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.3582000000000005e-05, 'stim': 0.000248575}
+[809/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.001986439, 'stim': 0.017870472000000002}
+[810/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002018039, 'stim': 0.001211611}
+[811/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.3496000000000001e-05, 'stim': 0.000241985}
+[812/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.5129e-05, 'stim': 0.000251308}
+[813/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000849749, 'stim': 0.016992167000000002}
+[814/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0008337370000000001, 'stim': 0.001133038}
+[815/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.2983e-05, 'stim': 0.000244808}
+[816/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.4461000000000002e-05, 'stim': 0.000255107}
+[817/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.001176923, 'stim': 0.016512253}
+[818/1090] protocol {'n': 1024, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0011212960000000001, 'stim': 0.001239426}
+[819/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.2281000000000004e-05, 'stim': 0.004429906}
+[820/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.9854e-05, 'stim': 0.004915221}
+[821/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002327682, 'stim': 0.298698118}
+[822/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002313777, 'stim': 0.00490262}
+[823/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.071e-05, 'stim': 0.004350964000000001}
+[824/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.9816000000000006e-05, 'stim': 0.005195994000000001}
+[825/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0024280020000000003, 'stim': 0.294329863}
+[826/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002329044, 'stim': 0.004881821000000001}
+[827/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 5.39e-06, 'stim': 6.827e-06}
+[828/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.432e-06, 'stim': 6.45e-06}
+[829/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.843e-05, 'stim': 1.4213000000000001e-05}
+[830/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.6750000000000003e-05, 'stim': 2.3731e-05}
+[831/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.3562e-05, 'stim': 0.003995805}
+[832/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.8322e-05, 'stim': 0.004142155000000001}
+[833/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002385702, 'stim': 0.297538568}
+[834/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002327748, 'stim': 0.005016247000000001}
+[835/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.392e-05, 'stim': 0.005403486000000001}
+[836/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.6012000000000006e-05, 'stim': 0.00427919}
+[837/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002454004, 'stim': 0.302451054}
+[838/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002355331, 'stim': 0.004494955}
+[839/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.6302000000000005e-05, 'stim': 0.004387414}
+[840/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.4994e-05, 'stim': 0.004354932000000001}
+[841/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0023585710000000003, 'stim': 0.30150121700000004}
+[842/1090] protocol {'n': 4096, 'state': 'bell', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00221723, 'stim': 0.004424735}
+[843/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.3406000000000004e-05, 'stim': 0.004135946000000001}
+[844/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.2793e-05, 'stim': 0.00401397}
+[845/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002199799, 'stim': 0.287998438}
+[846/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0022828970000000003, 'stim': 0.004946824000000001}
+[847/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 8.1217e-05, 'stim': 0.004170142}
+[848/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 8.484200000000001e-05, 'stim': 0.004926951000000001}
+[849/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002447107, 'stim': 0.290868466}
+[850/1090] protocol {'n': 4096, 'state': 'ghz', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002417998, 'stim': 0.004972600000000001}
+[851/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.401e-05, 'stim': 0.004451199}
+[852/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.8329000000000004e-05, 'stim': 0.004096383}
+[853/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.002272735, 'stim': 0.300684755}
+[854/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002274879, 'stim': 0.004839189000000001}
+[855/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.6014000000000004e-05, 'stim': 0.004122379000000001}
+[856/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.6044e-05, 'stim': 0.004280133}
+[857/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0023277090000000003, 'stim': 0.290562227}
+[858/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.005783972, 'stim': 0.012018709}
+[859/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0017224150000000001, 'stim': 0.01509131}
+[860/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.001224128, 'stim': 0.011895775}
+[861/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.073982015, 'stim': 0.813076667}
+[862/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.083660551, 'stim': 0.041563458000000005}
+[863/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0012533800000000001, 'stim': 0.013303929}
+[864/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0012889770000000002, 'stim': 0.012083007000000002}
+[865/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.07247908, 'stim': 0.752653942}
+[866/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.076258857, 'stim': 0.078458024}
+[867/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000433875, 'stim': 0.013216460000000001}
+[868/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000404514, 'stim': 0.011770543000000001}
+[869/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.028779075, 'stim': 0.7077300430000001}
+[870/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'X', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.027632082000000002, 'stim': 0.036846155000000005}
+[871/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00047600500000000005, 'stim': 0.008966854}
+[872/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 1, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000515255, 'stim': 0.010895947000000001}
+[873/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.042598273000000006, 'stim': 0.8503328130000001}
+[874/1090] protocol {'n': 4096, 'state': 'deterministic', 'kind': 'basis', 'count': 64, 'seed': 731, 'basis': 'Y', 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.019508398, 'stim': 0.020033604}
+[875/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.003e-06, 'stim': 8.197000000000001e-06}
+[876/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.0450000000000002e-06, 'stim': 7.4650000000000005e-06}
+[877/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.2677e-05, 'stim': 0.00025007800000000004}
+[878/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.7333e-05, 'stim': 5.4229000000000005e-05}
+[879/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.254e-06, 'stim': 5.9040000000000006e-06}
+[880/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.212e-06, 'stim': 4.901e-06}
+[881/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 6.156e-05, 'stim': 0.000298628}
+[882/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 6.0454e-05, 'stim': 0.000255513}
+[883/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.9370000000000003e-06, 'stim': 1.0406e-05}
+[884/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.087e-06, 'stim': 8.137e-06}
+[885/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00034735200000000004, 'stim': 0.001367933}
+[886/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000355744, 'stim': 0.000944019}
+[887/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 5.823e-06, 'stim': 2.3284000000000003e-05}
+[888/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 4.682e-06, 'stim': 1.7706e-05}
+[889/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000387229, 'stim': 0.001358194}
+[890/1090] protocol {'n': 65, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000316126, 'stim': 0.0010789690000000002}
+[891/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.091e-06, 'stim': 8.43e-06}
+[892/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.012e-06, 'stim': 8.437e-06}
+[893/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.5096e-05, 'stim': 0.000503221}
+[894/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 3.7210000000000005e-05, 'stim': 0.00013144600000000002}
+[895/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.938e-06, 'stim': 1.2156e-05}
+[896/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.0270000000000002e-06, 'stim': 1.0534000000000001e-05}
+[897/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000125887, 'stim': 0.0006429830000000001}
+[898/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000115241, 'stim': 0.0005444040000000001}
+[899/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 4.3580000000000005e-06, 'stim': 2.1533000000000002e-05}
+[900/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 6.993000000000001e-06, 'stim': 2.8106e-05}
+[901/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00044468700000000003, 'stim': 0.001772794}
+[902/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00033419, 'stim': 0.0009529940000000001}
+[903/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 6.294e-06, 'stim': 2.9529e-05}
+[904/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 6.9690000000000005e-06, 'stim': 2.7205e-05}
+[905/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000378144, 'stim': 0.001709783}
+[906/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00040819900000000004, 'stim': 0.001370556}
+[907/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.08e-06, 'stim': 1.0067e-05}
+[908/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.662e-06, 'stim': 9.688000000000001e-06}
+[909/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 7.3454e-05, 'stim': 0.0004900750000000001}
+[910/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 9.280300000000001e-05, 'stim': 0.00025269100000000004}
+[911/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.963e-06, 'stim': 1.4039e-05}
+[912/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 5.7900000000000005e-06, 'stim': 1.6426e-05}
+[913/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000130836, 'stim': 0.0006422670000000001}
+[914/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000127868, 'stim': 0.000537843}
+[915/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 5.166e-06, 'stim': 2.3440000000000003e-05}
+[916/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.0602000000000001e-05, 'stim': 3.5866000000000005e-05}
+[917/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00032042, 'stim': 0.0013136320000000001}
+[918/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000304182, 'stim': 0.0009509420000000001}
+[919/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 6.2930000000000006e-06, 'stim': 2.6777e-05}
+[920/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 5.662e-06, 'stim': 1.8438000000000002e-05}
+[921/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00039075400000000005, 'stim': 0.0023476630000000003}
+[922/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 65, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00039252000000000004, 'stim': 0.001206964}
+[923/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.1276e-05, 'stim': 0.000679598}
+[924/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.0384000000000001e-05, 'stim': 0.000570235}
+[925/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0008363400000000001, 'stim': 0.032218928}
+[926/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000679578, 'stim': 0.0020704110000000003}
+[927/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.2161000000000001e-05, 'stim': 0.000580719}
+[928/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.1638000000000001e-05, 'stim': 0.0005073650000000001}
+[929/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0013794690000000001, 'stim': 0.039323828000000005}
+[930/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00141371, 'stim': 0.015273430000000001}
+[931/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 3.1150000000000005e-05, 'stim': 0.000724164}
+[932/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.6928e-05, 'stim': 0.00065184}
+[933/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.001990464, 'stim': 0.038413965}
+[934/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002469881, 'stim': 0.041468418}
+[935/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000172592, 'stim': 0.0008163430000000001}
+[936/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00019167200000000002, 'stim': 0.000797037}
+[937/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.017430496, 'stim': 0.059110389000000006}
+[938/1090] protocol {'n': 1024, 'state': 'ghz', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.020510550000000002, 'stim': 0.053750261}
+[939/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 7.986000000000001e-06, 'stim': 0.000484001}
+[940/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.0543e-05, 'stim': 0.000597849}
+[941/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000593323, 'stim': 0.037330568}
+[942/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000586999, 'stim': 0.002617737}
+[943/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 1.5651e-05, 'stim': 0.000639752}
+[944/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 1.4763e-05, 'stim': 0.000633299}
+[945/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000787179, 'stim': 0.036810720000000005}
+[946/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.000810853, 'stim': 0.01603814}
+[947/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 2.2342e-05, 'stim': 0.000503517}
+[948/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 2.1877e-05, 'stim': 0.000520968}
+[949/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0023521310000000004, 'stim': 0.04126006}
+[950/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.002250708, 'stim': 0.037674657}
+[951/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.00022279100000000002, 'stim': 0.001046398}
+[952/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00017857000000000002, 'stim': 0.0007102660000000001}
+[953/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.023992314, 'stim': 0.06790249100000001}
+[954/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.017672804, 'stim': 0.056413417}
+[955/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 7.791900000000001e-05, 'stim': 0.000515454}
+[956/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 9.0895e-05, 'stim': 0.000679364}
+[957/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.004627008, 'stim': 0.038019988000000005}
+[958/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 2, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.005167751, 'stim': 0.003986023}
+[959/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 8.2126e-05, 'stim': 0.000557469}
+[960/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 7.478e-05, 'stim': 0.0007791790000000001}
+[961/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0017202320000000001, 'stim': 0.040382912}
+[962/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 16, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0017546450000000002, 'stim': 0.017666747}
+[963/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 9.7861e-05, 'stim': 0.000667975}
+[964/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 7.0948e-05, 'stim': 0.00048702900000000004}
+[965/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.0024309320000000002, 'stim': 0.041421283}
+[966/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 64, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.0027730700000000003, 'stim': 0.040438659}
+[967/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.000265348, 'stim': 0.0010336}
+[968/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 1, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.00025582700000000003, 'stim': 0.0007247800000000001}
+[969/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'decomposed'}
+  {'stabilizer': 0.020192906, 'stim': 0.062541753}
+[970/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'parity', 'count': 64, 'seed': 731, 'weight': 1024, 'stim_mode': 'native_pauli'}
+  {'stabilizer': 0.017258217000000003, 'stim': 0.050724117000000006}
+[971/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 3.2808e-05, 'stim': 0.000141156}
+[972/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 3.9782e-05, 'stim': 0.00014359}
+[973/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.000103301, 'stim': 0.000609976}
+[974/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 7.178100000000001e-05, 'stim': 0.00052372}
+[975/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.000292692, 'stim': 0.0012327030000000001}
+[976/1090] protocol {'n': 65, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.000177466, 'stim': 0.00100997}
+[977/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 5.2725e-05, 'stim': 0.000432949}
+[978/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 8.3997e-05, 'stim': 0.00068858}
+[979/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.000184071, 'stim': 0.001009427}
+[980/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 9.3107e-05, 'stim': 0.0007566210000000001}
+[981/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.00042149600000000005, 'stim': 0.0018675830000000001}
+[982/1090] protocol {'n': 65, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.00027802400000000003, 'stim': 0.0016049500000000002}
+[983/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.00010874300000000001, 'stim': 0.0005206350000000001}
+[984/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.000122365, 'stim': 0.000546253}
+[985/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.00016065600000000001, 'stim': 0.0008483470000000001}
+[986/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.00023216800000000002, 'stim': 0.001531257}
+[987/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.000351248, 'stim': 0.001498717}
+[988/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.00044675600000000003, 'stim': 0.00226646}
+[989/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 9.393e-05, 'stim': 0.000547011}
+[990/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 9.476100000000001e-05, 'stim': 0.000873016}
+[991/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.00023163800000000002, 'stim': 0.0033132630000000003}
+[992/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.000161838, 'stim': 0.003027553}
+[993/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.0007365010000000001, 'stim': 0.007556078000000001}
+[994/1090] protocol {'n': 256, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.000436429, 'stim': 0.008050333}
+[995/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.00017212100000000001, 'stim': 0.006834323000000001}
+[996/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.00016374, 'stim': 0.006372892000000001}
+[997/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.00026395600000000003, 'stim': 0.008102088}
+[998/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.00020866100000000001, 'stim': 0.007468898000000001}
+[999/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.0009635840000000001, 'stim': 0.009312786}
+[1000/1090] protocol {'n': 256, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.000343596, 'stim': 0.007995336}
+[1001/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.000926873, 'stim': 0.006992889}
+[1002/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.0009193490000000001, 'stim': 0.007075710000000001}
+[1003/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.001015324, 'stim': 0.009085175000000001}
+[1004/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.000988393, 'stim': 0.007836585}
+[1005/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.001191407, 'stim': 0.009018878000000001}
+[1006/1090] protocol {'n': 256, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.001057917, 'stim': 0.010839255}
+[1007/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.00013506800000000002, 'stim': 0.002167224}
+[1008/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.00011323700000000001, 'stim': 0.002442656}
+[1009/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.000732622, 'stim': 0.011471144}
+[1010/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.00038979300000000004, 'stim': 0.009190288000000001}
+[1011/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.001258512, 'stim': 0.049711171000000005}
+[1012/1090] protocol {'n': 1024, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.000871152, 'stim': 0.032242942000000004}
+[1013/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.000436674, 'stim': 0.034383872}
+[1014/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.000408441, 'stim': 0.029338093000000003}
+[1015/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.00043086800000000005, 'stim': 0.029158754000000002}
+[1016/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.000431616, 'stim': 0.029500708}
+[1017/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.0009303540000000001, 'stim': 0.037994154}
+[1018/1090] protocol {'n': 1024, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.0006614110000000001, 'stim': 0.03187207}
+[1019/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.0039698450000000005, 'stim': 0.031476238000000004}
+[1020/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.004090161, 'stim': 0.032705684}
+[1021/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.004822295, 'stim': 0.038821511}
+[1022/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.003828721, 'stim': 0.031642012000000004}
+[1023/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.0038718510000000004, 'stim': 0.030308483}
+[1024/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.005020532, 'stim': 0.043192106}
+[1025/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.00030103000000000004, 'stim': 6.4293e-05}
+[1026/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 5.2435e-05, 'stim': 2.5541e-05}
+[1027/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.001161123, 'stim': 0.027987335000000002}
+[1028/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.0013008610000000002, 'stim': 0.045354007}
+[1029/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.008082959, 'stim': 0.451739117}
+[1030/1090] protocol {'n': 4096, 'state': 'zero', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.005037656000000001, 'stim': 0.390894198}
+[1031/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.010985067000000001, 'stim': 1.6273251180000001}
+[1032/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}

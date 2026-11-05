@@ -1,0 +1,21 @@
+{
+  "completed": 1090,
+  "planned": 1090,
+  "errors": 0,
+  "last_case": {
+    "id": "d3f2ee54fdb7f1c1",
+    "family": "stress",
+    "parameters": {
+      "mode": "gates",
+      "qubits": [
+        100000
+      ],
+      "gates": 1000000,
+      "repeats": 3,
+      "seed": 731
+    }
+  },
+  "updated_at_utc": "2026-10-18T20:25:35.272628+00:00",
+  "status": "completed",
+  "remaining": 0
+}

@@ -1,0 +1,53 @@
+{
+  "id": "39bfb9b633922b2f",
+  "family": "protocol",
+  "parameters": {
+    "n": 4096,
+    "state": "plus",
+    "kind": "repeated",
+    "count": 1024,
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:18:29.335417+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 4096,
+    "state": "plus",
+    "kind": "repeated",
+    "measurement_count": 1024,
+    "basis": "Z",
+    "weight": 1,
+    "unitary_layer": 0,
+    "locality": "random",
+    "stim_mode": "decomposed",
+    "local_compiled_gates": 1024,
+    "seed": 731,
+    "event_sha256": "7d1839e0be730115217457d8282f44dcc008abab54162d1868ca43be5ac52d14",
+    "random_measurements": 1,
+    "deterministic_measurements": 1023,
+    "samples_seconds": {
+      "stabilizer": [
+        0.00029331,
+        0.00028946500000000003,
+        0.000321489,
+        0.000352782,
+        0.000300154
+      ],
+      "stim": [
+        0.00788819,
+        0.008912968,
+        0.008030233000000001,
+        0.009364303000000001,
+        0.009297883
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.000300154,
+      "stim": 0.008912968
+    },
+    "stabilizer_over_stim": 0.03367609981321598,
+    "verification": "logical outcome replay plus sampled final stabilizers/observables",
+    "timing_scope": "one circuit call and result conversion; includes Clifford decomposition/basis restoration; native_pauli uses Stim MPP"
+  },
+  "wall_seconds": 14.73909138199997
+}

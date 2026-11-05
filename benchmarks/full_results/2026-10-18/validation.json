@@ -1,0 +1,15 @@
+{
+  "performed_before_timing": true,
+  "python": {
+    "command": "env PYTHONPATH=python PYTHONPYCACHEPREFIX=/tmp/stim-stress-pycache /tmp/stim-stress-venv/bin/python -m pytest -q",
+    "passed": 304,
+    "skipped": 1,
+    "failed": 0
+  },
+  "rust": {
+    "command": "cargo test --lib",
+    "passed": 52,
+    "failed": 0
+  },
+  "protocol_validation": "Full logical Stim replay state equality at n=8 and n=65 for X/Y, parity, repeated and interleaved measurements, with both shared decomposition and native Stim MPP."
+}

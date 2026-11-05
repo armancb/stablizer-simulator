@@ -1,0 +1,39 @@
+{
+  "id": "c5f44c755b98da99",
+  "family": "lifecycle",
+  "parameters": {
+    "n": 65,
+    "kind": "export_cold",
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:19:04.460872+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 65,
+    "kind": "export_cold",
+    "samples_seconds": {
+      "stabilizer": [
+        0.000286923,
+        0.00025044300000000004,
+        0.000271519,
+        0.000263138,
+        0.00025125900000000004
+      ],
+      "stim": [
+        7.6449e-05,
+        7.7576e-05,
+        7.613e-05,
+        7.8868e-05,
+        7.7181e-05
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.000263138,
+      "stim": 7.7181e-05
+    },
+    "stabilizer_over_stim": 3.4093624078464906,
+    "timing_scope": "full forward tableau arrays, including Stim inversion",
+    "state": "cluster"
+  },
+  "wall_seconds": 0.005079628000203229
+}
