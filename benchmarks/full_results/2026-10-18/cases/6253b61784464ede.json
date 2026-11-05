@@ -1,0 +1,39 @@
+{
+  "id": "6253b61784464ede",
+  "family": "lifecycle",
+  "parameters": {
+    "n": 1024,
+    "kind": "peek",
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:19:04.564758+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 1024,
+    "kind": "peek",
+    "samples_seconds": {
+      "stabilizer": [
+        3.791e-06,
+        3.2120000000000003e-06,
+        4.157e-06,
+        3.1270000000000003e-06,
+        3.1780000000000003e-06
+      ],
+      "stim": [
+        9.432e-06,
+        8.052e-06,
+        9.347e-06,
+        8.697e-06,
+        7.673000000000001e-06
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 3.2120000000000003e-06,
+      "stim": 8.697e-06
+    },
+    "stabilizer_over_stim": 0.36932275497297923,
+    "timing_scope": "peek",
+    "state": "cluster"
+  },
+  "wall_seconds": 0.06861346100049559
+}

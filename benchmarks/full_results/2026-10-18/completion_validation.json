@@ -1,0 +1,13 @@
+{
+  "completed_cases": 1090,
+  "case_errors": 0,
+  "remaining_cases_completed": 59,
+  "original_records_verified": 1031,
+  "normal_case_sample_count_per_backend": 5,
+  "stress_gate_sample_count_per_worker": 3,
+  "successful_stress_workers_have_zero_swap": true,
+  "stress_probe_status_counts": {
+    "success": 41
+  },
+  "verified_at_utc": "2026-10-18T20:26:30.754668+00:00"
+}

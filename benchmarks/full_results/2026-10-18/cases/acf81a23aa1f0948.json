@@ -1,0 +1,39 @@
+{
+  "id": "acf81a23aa1f0948",
+  "family": "lifecycle",
+  "parameters": {
+    "n": 4096,
+    "kind": "copy",
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:19:06.435251+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 4096,
+    "kind": "copy",
+    "samples_seconds": {
+      "stabilizer": [
+        0.003830879,
+        0.000625985,
+        0.0035654790000000003,
+        0.0004989920000000001,
+        0.003858105
+      ],
+      "stim": [
+        0.006232375,
+        0.002224756,
+        0.006227407000000001,
+        0.0027205470000000002,
+        0.005608893
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.0035654790000000003,
+      "stim": 0.005608893
+    },
+    "stabilizer_over_stim": 0.6356831909612111,
+    "timing_scope": "copy",
+    "state": "cluster"
+  },
+  "wall_seconds": 0.24441146600020147
+}

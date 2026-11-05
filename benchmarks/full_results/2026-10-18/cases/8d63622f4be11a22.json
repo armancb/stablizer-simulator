@@ -1,0 +1,39 @@
+{
+  "id": "8d63622f4be11a22",
+  "family": "lifecycle",
+  "parameters": {
+    "n": 65,
+    "kind": "initialize",
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:19:04.449076+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 65,
+    "kind": "initialize",
+    "samples_seconds": {
+      "stabilizer": [
+        9.71e-07,
+        4.4100000000000004e-07,
+        5.06e-07,
+        4.6900000000000003e-07,
+        4.1500000000000005e-07
+      ],
+      "stim": [
+        1.8150000000000002e-06,
+        1.3410000000000002e-06,
+        1.2820000000000002e-06,
+        1.351e-06,
+        2.2810000000000003e-06
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 4.6900000000000003e-07,
+      "stim": 1.351e-06
+    },
+    "stabilizer_over_stim": 0.3471502590673575,
+    "timing_scope": "initial allocation without full touch",
+    "state": "zero"
+  },
+  "wall_seconds": 0.002870135999728518
+}

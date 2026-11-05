@@ -1,0 +1,40 @@
+{
+  "id": "d572d0f02cf919fb",
+  "family": "shots",
+  "parameters": {
+    "n": 256,
+    "state": "scrambled",
+    "shots": 1,
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:19:12.472428+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 256,
+    "shots": 1,
+    "state": "scrambled",
+    "samples_seconds": {
+      "stabilizer": [
+        0.0009249740000000001,
+        0.00099177,
+        0.000838545,
+        0.0008182080000000001,
+        0.0008379250000000001
+      ],
+      "stim": [
+        0.0010147510000000002,
+        0.000965494,
+        0.000876523,
+        0.0008943450000000001,
+        0.000894783
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.000838545,
+      "stim": 0.000894783
+    },
+    "stabilizer_over_stim": 0.9371490070776937,
+    "timing_scope": "fresh tableau allocation, preparation, all-qubit Z measurement, result conversion and destruction for every shot; no compiled sampler"
+  },
+  "wall_seconds": 0.13429671399990184
+}

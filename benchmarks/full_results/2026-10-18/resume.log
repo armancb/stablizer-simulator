@@ -1,0 +1,120 @@
+Output /home/ashwin/qbits/stablizer-simulator/benchmarks/full_results/2026-10-18; 1090 cases, 1031 already completed; repeats=5
+[1032/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.004600501, 'stim': 0.5738789390000001}
+[1033/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.004834578, 'stim': 0.6067538920000001}
+[1034/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.0050306560000000005, 'stim': 0.62951314}
+[1035/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.005871172, 'stim': 0.646677629}
+[1036/1090] protocol {'n': 4096, 'state': 'cluster', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.005357604, 'stim': 0.6282305800000001}
+[1037/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'random'}
+  {'stabilizer': 0.061990907000000005, 'stim': 0.5802786990000001}
+[1038/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 1, 'locality': 'local'}
+  {'stabilizer': 0.064975851, 'stim': 0.600428123}
+[1039/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'random'}
+  {'stabilizer': 0.062316211, 'stim': 0.650842047}
+[1040/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 8, 'locality': 'local'}
+  {'stabilizer': 0.060063708, 'stim': 0.6500043710000001}
+[1041/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'random'}
+  {'stabilizer': 0.06465884100000001, 'stim': 0.6911937850000001}
+[1042/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'interleaved', 'count': 128, 'seed': 731, 'layer': 64, 'locality': 'local'}
+  {'stabilizer': 0.062378521000000006, 'stim': 0.6461447690000001}
+[1043/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 3.368e-06, 'stim': 7.786e-06}
+[1044/1090] protocol {'n': 65, 'state': 'plus', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 4.0728e-05, 'stim': 6.5342e-05}
+[1045/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 4.041e-06, 'stim': 8.289e-06}
+[1046/1090] protocol {'n': 65, 'state': 'scrambled', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 4.5166e-05, 'stim': 6.8186e-05}
+[1047/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 1.036e-05, 'stim': 0.000282974}
+[1048/1090] protocol {'n': 1024, 'state': 'plus', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 9.7638e-05, 'stim': 0.001071071}
+[1049/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 4.3565e-05, 'stim': 0.00030997500000000004}
+[1050/1090] protocol {'n': 1024, 'state': 'scrambled', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 0.000136271, 'stim': 0.001094526}
+[1051/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 7.1037e-05, 'stim': 0.004395658}
+[1052/1090] protocol {'n': 4096, 'state': 'plus', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 0.000300154, 'stim': 0.008912968}
+[1053/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'repeated', 'count': 64, 'seed': 731}
+  {'stabilizer': 0.000518213, 'stim': 0.004690728}
+[1054/1090] protocol {'n': 4096, 'state': 'scrambled', 'kind': 'repeated', 'count': 1024, 'seed': 731}
+  {'stabilizer': 0.000734066, 'stim': 0.009016318}
+[1055/1090] lifecycle {'n': 1, 'kind': 'initialize', 'seed': 731}
+  {'stabilizer': 3.2400000000000004e-07, 'stim': 1.2700000000000001e-06}
+[1056/1090] lifecycle {'n': 1, 'kind': 'copy', 'seed': 731}
+  {'stabilizer': 4.25e-07, 'stim': 1.627e-06}
+[1057/1090] lifecycle {'n': 1, 'kind': 'peek', 'seed': 731}
+  {'stabilizer': 4.3100000000000003e-07, 'stim': 5.94e-07}
+[1058/1090] lifecycle {'n': 1, 'kind': 'export_cold', 'seed': 731}
+  {'stabilizer': 3.328e-06, 'stim': 6.7990000000000005e-06}
+[1059/1090] lifecycle {'n': 1, 'kind': 'export_warm', 'seed': 731}
+  {'stabilizer': 1.975e-06, 'stim': 5.6440000000000005e-06}
+[1060/1090] lifecycle {'n': 65, 'kind': 'initialize', 'seed': 731}
+  {'stabilizer': 4.6900000000000003e-07, 'stim': 1.351e-06}
+[1061/1090] lifecycle {'n': 65, 'kind': 'copy', 'seed': 731}
+  {'stabilizer': 2.3000000000000002e-07, 'stim': 9.18e-07}
+[1062/1090] lifecycle {'n': 65, 'kind': 'peek', 'seed': 731}
+  {'stabilizer': 3.1950000000000003e-06, 'stim': 6.961000000000001e-06}
+[1063/1090] lifecycle {'n': 65, 'kind': 'export_cold', 'seed': 731}
+  {'stabilizer': 0.000263138, 'stim': 7.7181e-05}
+[1064/1090] lifecycle {'n': 65, 'kind': 'export_warm', 'seed': 731}
+  {'stabilizer': 0.000251106, 'stim': 7.6693e-05}
+[1065/1090] lifecycle {'n': 1024, 'kind': 'initialize', 'seed': 731}
+  {'stabilizer': 8.906e-06, 'stim': 1.1583e-05}
+[1066/1090] lifecycle {'n': 1024, 'kind': 'copy', 'seed': 731}
+  {'stabilizer': 2.2601000000000003e-05, 'stim': 4.0991e-05}
+[1067/1090] lifecycle {'n': 1024, 'kind': 'peek', 'seed': 731}
+  {'stabilizer': 3.2120000000000003e-06, 'stim': 8.697e-06}
+[1068/1090] lifecycle {'n': 1024, 'kind': 'export_cold', 'seed': 731}
+  {'stabilizer': 0.06729908100000001, 'stim': 0.013932311000000001}
+[1069/1090] lifecycle {'n': 1024, 'kind': 'export_warm', 'seed': 731}
+  {'stabilizer': 0.067143457, 'stim': 0.01304387}
+[1070/1090] lifecycle {'n': 4096, 'kind': 'initialize', 'seed': 731}
+  {'stabilizer': 0.00033920600000000005, 'stim': 0.000427223}
+[1071/1090] lifecycle {'n': 4096, 'kind': 'copy', 'seed': 731}
+  {'stabilizer': 0.0035654790000000003, 'stim': 0.005608893}
+[1072/1090] lifecycle {'n': 4096, 'kind': 'peek', 'seed': 731}
+  {'stabilizer': 9.917e-06, 'stim': 1.7084e-05}
+[1073/1090] lifecycle {'n': 16384, 'kind': 'initialize', 'seed': 731}
+  {'stabilizer': 0.035604616000000006, 'stim': 0.06108907400000001}
+[1074/1090] lifecycle {'n': 16384, 'kind': 'copy', 'seed': 731}
+  {'stabilizer': 0.049435841, 'stim': 0.068991472}
+[1075/1090] lifecycle {'n': 16384, 'kind': 'peek', 'seed': 731}
+  {'stabilizer': 2.8302e-05, 'stim': 4.4877000000000004e-05}
+[1076/1090] shots {'n': 65, 'state': 'cluster', 'shots': 1, 'seed': 731}
+  {'stabilizer': 1.2290000000000001e-05, 'stim': 1.4947000000000001e-05}
+[1077/1090] shots {'n': 65, 'state': 'cluster', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.000350666, 'stim': 0.000450849}
+[1078/1090] shots {'n': 65, 'state': 'scrambled', 'shots': 1, 'seed': 731}
+  {'stabilizer': 5.5286000000000006e-05, 'stim': 0.00010832200000000001}
+[1079/1090] shots {'n': 65, 'state': 'scrambled', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.001310053, 'stim': 0.003263291}
+[1080/1090] shots {'n': 256, 'state': 'cluster', 'shots': 1, 'seed': 731}
+  {'stabilizer': 0.000134473, 'stim': 0.00012479800000000002}
+[1081/1090] shots {'n': 256, 'state': 'cluster', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.004363565000000001, 'stim': 0.0033597}
+[1082/1090] shots {'n': 256, 'state': 'scrambled', 'shots': 1, 'seed': 731}
+  {'stabilizer': 0.000838545, 'stim': 0.000894783}
+[1083/1090] shots {'n': 256, 'state': 'scrambled', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.026392170000000003, 'stim': 0.028867063000000002}
+[1084/1090] shots {'n': 1024, 'state': 'cluster', 'shots': 1, 'seed': 731}
+  {'stabilizer': 0.0032214690000000002, 'stim': 0.001261414}
+[1085/1090] shots {'n': 1024, 'state': 'cluster', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.10807290300000001, 'stim': 0.042680233000000005}
+[1086/1090] shots {'n': 1024, 'state': 'scrambled', 'shots': 1, 'seed': 731}
+  {'stabilizer': 0.024146784, 'stim': 0.017655007}
+[1087/1090] shots {'n': 1024, 'state': 'scrambled', 'shots': 32, 'seed': 731}
+  {'stabilizer': 0.760335528, 'stim': 0.5757230440000001}
+[1088/1090] stress {'mode': 'gates', 'auto': True, 'gates': 10000, 'repeats': 3, 'seed': 731}
+  success
+[1089/1090] stress {'mode': 'measurement', 'auto': True, 'gates': 10000, 'repeats': 3, 'seed': 731}
+  success
+[1090/1090] stress {'mode': 'gates', 'qubits': [100000], 'gates': 1000000, 'repeats': 3, 'seed': 731}
+  success
+Saved /home/ashwin/qbits/stablizer-simulator/benchmarks/full_results/2026-10-18/summary.md

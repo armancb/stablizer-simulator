@@ -1,0 +1,55 @@
+{
+  "id": "13e9bab5854cea3b",
+  "family": "protocol",
+  "parameters": {
+    "n": 4096,
+    "state": "bell",
+    "kind": "basis",
+    "count": 64,
+    "seed": 731,
+    "basis": "X",
+    "stim_mode": "native_pauli"
+  },
+  "started_at_utc": "2026-10-18T18:09:22.284269+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 4096,
+    "state": "bell",
+    "kind": "basis",
+    "measurement_count": 64,
+    "basis": "X",
+    "weight": 1,
+    "unitary_layer": 0,
+    "locality": "random",
+    "stim_mode": "native_pauli",
+    "local_compiled_gates": 192,
+    "seed": 731,
+    "event_sha256": "f02da2f845553f9e2b01785f846b1b02194b3970209e5a49e36ec0682bb91e45",
+    "random_measurements": 64,
+    "deterministic_measurements": 0,
+    "samples_seconds": {
+      "stabilizer": [
+        0.002355331,
+        0.0023263750000000003,
+        0.002297206,
+        0.004378135,
+        0.0037785880000000003
+      ],
+      "stim": [
+        0.004678900000000001,
+        0.004494955,
+        0.004461279,
+        0.0048361160000000005,
+        0.004381526
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.002355331,
+      "stim": 0.004494955
+    },
+    "stabilizer_over_stim": 0.523994344770971,
+    "verification": "logical outcome replay plus sampled final stabilizers/observables",
+    "timing_scope": "one circuit call and result conversion; includes Clifford decomposition/basis restoration; native_pauli uses Stim MPP"
+  },
+  "wall_seconds": 1.3531353660000605
+}

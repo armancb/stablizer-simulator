@@ -1,0 +1,55 @@
+{
+  "id": "34be646018a935fc",
+  "family": "protocol",
+  "parameters": {
+    "n": 65,
+    "state": "zero",
+    "kind": "interleaved",
+    "count": 128,
+    "seed": 731,
+    "layer": 8,
+    "locality": "local"
+  },
+  "started_at_utc": "2026-10-18T18:13:39.227576+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 65,
+    "state": "zero",
+    "kind": "interleaved",
+    "measurement_count": 128,
+    "basis": "Z",
+    "weight": 1,
+    "unitary_layer": 8,
+    "locality": "local",
+    "stim_mode": "decomposed",
+    "local_compiled_gates": 1152,
+    "seed": 731,
+    "event_sha256": "f4ae94e49c14c184ce2f64ea275f85b8b290f8e017bb2d83df06c3d28850d434",
+    "random_measurements": 82,
+    "deterministic_measurements": 46,
+    "samples_seconds": {
+      "stabilizer": [
+        8.1074e-05,
+        7.789900000000001e-05,
+        7.178100000000001e-05,
+        6.588500000000001e-05,
+        6.6798e-05
+      ],
+      "stim": [
+        0.00052372,
+        0.000545122,
+        0.000505344,
+        0.0005663640000000001,
+        0.000494549
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 7.178100000000001e-05,
+      "stim": 0.00052372
+    },
+    "stabilizer_over_stim": 0.13705987932483008,
+    "verification": "full logical replay state",
+    "timing_scope": "one circuit call and result conversion; includes Clifford decomposition/basis restoration; native_pauli uses Stim MPP"
+  },
+  "wall_seconds": 0.08119194200025959
+}

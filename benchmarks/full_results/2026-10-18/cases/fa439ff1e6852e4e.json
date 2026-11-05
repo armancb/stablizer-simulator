@@ -1,0 +1,762 @@
+{
+  "id": "fa439ff1e6852e4e",
+  "family": "stress",
+  "parameters": {
+    "mode": "measurement",
+    "auto": true,
+    "gates": 10000,
+    "repeats": 3,
+    "seed": 731
+  },
+  "started_at_utc": "2026-10-18T20:21:01.654742+00:00",
+  "status": "success",
+  "result": {
+    "created_at_utc": "2026-10-18T20:21:01Z",
+    "initial_memory": {
+      "total_bytes": 16449691648,
+      "available_bytes": 13286027264,
+      "swap_used_bytes": 157982720
+    },
+    "mode": "measurement",
+    "seed": 731,
+    "gates": 10000,
+    "repeats": 3,
+    "backends": [
+      "stabilizer",
+      "stim"
+    ],
+    "reserve_mib": 768,
+    "budget_ceiling_qubits": {
+      "stabilizer": 157087,
+      "stim": 142429
+    },
+    "results": [
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 8192,
+        "mode": "measurement",
+        "storage_bytes": 34117664,
+        "initialization_seconds": 0.01386517199989612,
+        "full_touch_seconds": 0.0017738180004016613,
+        "gate_seconds": 0.0024341540001842077,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.0024341540001842077,
+          0.0023970689999259776,
+          0.002608409000458778
+        ],
+        "gate_sha256": "bd0356ed516913bc18f0e50039e2244324d1f437a2d5f4557709a48d876e28f7",
+        "measurement_seconds": 0.00024407399996562162,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 59793408,
+        "worker_swap_bytes": 0,
+        "total_seconds": 0.0498848570005066,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12480720896,
+        "available_before_bytes": 13286027264,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13234053120,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 8192,
+        "mode": "measurement",
+        "storage_bytes": 42469632,
+        "initialization_seconds": 0.020925092999277695,
+        "full_touch_seconds": 0.0021957949993520742,
+        "gate_seconds": 0.004834489000131725,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.004904884000097809,
+          0.004433187000358885,
+          0.004834489000131725
+        ],
+        "gate_sha256": "bd0356ed516913bc18f0e50039e2244324d1f437a2d5f4557709a48d876e28f7",
+        "measurement_seconds": 0.030166618999828643,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 71925760,
+        "worker_swap_bytes": 0,
+        "total_seconds": 0.2845816110002488,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12428746752,
+        "available_before_bytes": 13234053120,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13235728384,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 16384,
+        "mode": "measurement",
+        "storage_bytes": 169873920,
+        "initialization_seconds": 0.06910621899987746,
+        "full_touch_seconds": 0.008982149000075879,
+        "gate_seconds": 0.010616743999889877,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.01100717299959797,
+          0.010616743999889877,
+          0.010560780000560044
+        ],
+        "gate_sha256": "70d96ce086589b22cb2592affc668770f3f578a990fe3e01f989185dc074306d",
+        "measurement_seconds": 0.15612403100021766,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 193617920,
+        "worker_swap_bytes": 0,
+        "total_seconds": 0.599700235000455,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12430422016,
+        "available_before_bytes": 13235728384,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13191684096,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 16384,
+        "mode": "measurement",
+        "storage_bytes": 135340064,
+        "initialization_seconds": 0.04318883499945514,
+        "full_touch_seconds": 0.009192788999826007,
+        "gate_seconds": 0.009200247000080708,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.008356829999684123,
+          0.009200247000080708,
+          0.00972610699955112
+        ],
+        "gate_sha256": "70d96ce086589b22cb2592affc668770f3f578a990fe3e01f989185dc074306d",
+        "measurement_seconds": 0.0007007939993854961,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 160972800,
+        "worker_swap_bytes": 0,
+        "total_seconds": 0.14024809499915136,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12386377728,
+        "available_before_bytes": 13191684096,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13186158592,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 32768,
+        "mode": "measurement",
+        "storage_bytes": 539111456,
+        "initialization_seconds": 0.08034034600041196,
+        "full_touch_seconds": 0.1583774610007822,
+        "gate_seconds": 0.017009624000820622,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.015028548999907798,
+          0.028947316999619943,
+          0.017009624000820622
+        ],
+        "gate_sha256": "cb0a87857ef5ef3a1c1fdbebed0337ba551d374f56596c18dfe31fabe282a363",
+        "measurement_seconds": 0.0019141499997203937,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 564944896,
+        "worker_swap_bytes": 0,
+        "total_seconds": 0.43468285800008744,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12380852224,
+        "available_before_bytes": 13186158592,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13043503104,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 32768,
+        "mode": "measurement",
+        "storage_bytes": 660743040,
+        "initialization_seconds": 0.2603872909994607,
+        "full_touch_seconds": 0.03700039300019853,
+        "gate_seconds": 0.019174787000338256,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.02002362599978369,
+          0.019139213000016753,
+          0.019174787000338256
+        ],
+        "gate_sha256": "cb0a87857ef5ef3a1c1fdbebed0337ba551d374f56596c18dfe31fabe282a363",
+        "measurement_seconds": 0.6648207240004922,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 682475520,
+        "worker_swap_bytes": 0,
+        "total_seconds": 1.595640167000056,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12238196736,
+        "available_before_bytes": 13043503104,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13111422976,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 65536,
+        "mode": "measurement",
+        "storage_bytes": 2605860480,
+        "initialization_seconds": 1.1833833860000595,
+        "full_touch_seconds": 0.13776551999944786,
+        "gate_seconds": 0.03249300700008462,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.030926288000046043,
+          0.03285875100027624,
+          0.03249300700008462
+        ],
+        "gate_sha256": "51bfe4f4cdebe1ae5c5dca2292daadda969207ee54805eb7538298870f183fd1",
+        "measurement_seconds": 2.6413919379992876,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 2636947456,
+        "worker_swap_bytes": 0,
+        "total_seconds": 5.078019311999924,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12314411008,
+        "available_before_bytes": 13119717376,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13001441280,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 65536,
+        "mode": "measurement",
+        "storage_bytes": 2151960608,
+        "initialization_seconds": 0.14150579499982996,
+        "full_touch_seconds": 0.8660252720001154,
+        "gate_seconds": 0.025803966999774275,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.025803966999774275,
+          0.026367659000243293,
+          0.02561650500047108
+        ],
+        "gate_sha256": "51bfe4f4cdebe1ae5c5dca2292daadda969207ee54805eb7538298870f183fd1",
+        "measurement_seconds": 0.002924972000073467,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 2178715648,
+        "worker_swap_bytes": 0,
+        "total_seconds": 1.3763342029997148,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12196134912,
+        "available_before_bytes": 13001441280,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13054812160,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 98304,
+        "mode": "measurement",
+        "storage_bytes": 4838551584,
+        "initialization_seconds": 0.22157821100063302,
+        "full_touch_seconds": 3.216849032999562,
+        "gate_seconds": 0.03637016699940432,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.03619834500022989,
+          0.03637016699940432,
+          0.03730227699998068
+        ],
+        "gate_sha256": "b1aa46613e42431faf894b9ff3c25fb53465f0301847c3ee36e5b08857253801",
+        "measurement_seconds": 0.004559565000818111,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 4865789952,
+        "worker_swap_bytes": 0,
+        "total_seconds": 4.056715646999692,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12249505792,
+        "available_before_bytes": 13054812160,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13064220672,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 98304,
+        "mode": "measurement",
+        "storage_bytes": 5890927104,
+        "initialization_seconds": 2.5690708849997463,
+        "full_touch_seconds": 0.33143709500018304,
+        "gate_seconds": 0.044844166999610025,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.044844166999610025,
+          0.044351351999466715,
+          0.04497383099987928
+        ],
+        "gate_sha256": "b1aa46613e42431faf894b9ff3c25fb53465f0301847c3ee36e5b08857253801",
+        "measurement_seconds": 6.294429725000555,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 5880455168,
+        "worker_swap_bytes": 0,
+        "total_seconds": 10.928030133999528,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12258914304,
+        "available_before_bytes": 13064220672,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13215936512,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 128000,
+        "mode": "measurement",
+        "storage_bytes": 9912355200,
+        "initialization_seconds": 4.960443877999751,
+        "full_touch_seconds": 1.9630202020007346,
+        "gate_seconds": 0.06206977799956803,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.058262104999812436,
+          0.06520094400002563,
+          0.06206977799956803
+        ],
+        "gate_sha256": "81bbd12388592b8dadb30b428ce73152cc523fd616c46bef2700b9e823875620",
+        "measurement_seconds": 11.475460591000228,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 9943920640,
+        "worker_swap_bytes": 0,
+        "total_seconds": 21.38862075399993,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12410630144,
+        "available_before_bytes": 13215936512,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13295431680,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 128000,
+        "mode": "measurement",
+        "storage_bytes": 8200740128,
+        "initialization_seconds": 0.29904131600051187,
+        "full_touch_seconds": 5.260275618999913,
+        "gate_seconds": 0.048871157000576204,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.048130604999641946,
+          0.050195227999211056,
+          0.048871157000576204
+        ],
+        "gate_sha256": "81bbd12388592b8dadb30b428ce73152cc523fd616c46bef2700b9e823875620",
+        "measurement_seconds": 0.006833137000285205,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 8228589568,
+        "worker_swap_bytes": 0,
+        "total_seconds": 6.498520457999803,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12480720896,
+        "available_before_bytes": 13295431680,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13284249600,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 131072,
+        "mode": "measurement",
+        "storage_bytes": 8598884384,
+        "initialization_seconds": 0.2982267719999072,
+        "full_touch_seconds": 4.838464058000682,
+        "gate_seconds": 0.048962923000544833,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.048962923000544833,
+          0.0488620810001521,
+          0.05076839200046379
+        ],
+        "gate_sha256": "e761c5169bbaeb3936c0a66b7c2cf1f3535d5a15580d158e99199779522f35ea",
+        "measurement_seconds": 0.006633249000515207,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 8626819072,
+        "worker_swap_bytes": 0,
+        "total_seconds": 6.080137289999584,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12478943232,
+        "available_before_bytes": 13284249600,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13256126464,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 131072,
+        "mode": "measurement",
+        "storage_bytes": 10423405824,
+        "initialization_seconds": 4.439170730000114,
+        "full_touch_seconds": 1.211786179000228,
+        "gate_seconds": 0.05794304800019745,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.056366285999502,
+          0.05824677900000097,
+          0.05794304800019745
+        ],
+        "gate_sha256": "e761c5169bbaeb3936c0a66b7c2cf1f3535d5a15580d158e99199779522f35ea",
+        "measurement_seconds": 12.342853865000507,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 10437009408,
+        "worker_swap_bytes": 0,
+        "total_seconds": 20.65792846400018,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12450820096,
+        "available_before_bytes": 13256126464,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13279481856,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 140288,
+        "mode": "measurement",
+        "storage_bytes": 11954329344,
+        "initialization_seconds": 5.254378480999549,
+        "full_touch_seconds": 1.6847702619998017,
+        "gate_seconds": 0.06447833299989725,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.07137257099930139,
+          0.062085233999823686,
+          0.06447833299989725
+        ],
+        "gate_sha256": "3c0a66abe298221e548746a5c83083320a533549d6410c5ea563c605333cc52c",
+        "measurement_seconds": 15.102622602000338,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 11947106304,
+        "worker_swap_bytes": 0,
+        "total_seconds": 24.87791661999927,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12474175488,
+        "available_before_bytes": 13279481856,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13288443904,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 140288,
+        "mode": "measurement",
+        "storage_bytes": 9849940256,
+        "initialization_seconds": 0.3186280079999051,
+        "full_touch_seconds": 6.51382976900004,
+        "gate_seconds": 0.04927177500030666,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.04978542000026209,
+          0.04896370000005845,
+          0.04927177500030666
+        ],
+        "gate_sha256": "3c0a66abe298221e548746a5c83083320a533549d6410c5ea563c605333cc52c",
+        "measurement_seconds": 0.008350781999979517,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 9877917696,
+        "worker_swap_bytes": 0,
+        "total_seconds": 7.82777088200055,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12480720896,
+        "available_before_bytes": 13288443904,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13049405440,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 142336,
+        "mode": "measurement",
+        "storage_bytes": 10139487008,
+        "initialization_seconds": 0.3126103130007323,
+        "full_touch_seconds": 6.62951860099929,
+        "gate_seconds": 0.04935106999982963,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.0519697889994859,
+          0.04935106999982963,
+          0.04918664200067724
+        ],
+        "gate_sha256": "d4fcfedbbced78c6033ef56e1c798acacdcdbc3688d43b12c9c1e4bc9f627ef1",
+        "measurement_seconds": 0.009309504000157176,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 10167521280,
+        "worker_swap_bytes": 0,
+        "total_seconds": 7.961262751000504,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12244099072,
+        "available_before_bytes": 13049405440,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13106954240,
+          "swap_used_bytes": 157982720
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 141312,
+        "mode": "measurement",
+        "storage_bytes": 12113188864,
+        "initialization_seconds": 5.482677030000559,
+        "full_touch_seconds": 2.1676106579998304,
+        "gate_seconds": 0.06285964299968327,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.06323071099996014,
+          0.06285964299968327,
+          0.06146551400070166
+        ],
+        "gate_sha256": "607383aa02737090f5fb1eab7e209ffad4dcac698055a8f6fac6327a4f41d67c",
+        "measurement_seconds": 15.545530955999311,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 12125306880,
+        "worker_swap_bytes": 0,
+        "total_seconds": 26.325793765000526,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12301647872,
+        "available_before_bytes": 13106954240,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13256105984,
+          "swap_used_bytes": 171122688
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stim",
+        "qubits": 142336,
+        "mode": "measurement",
+        "storage_bytes": 12273096960,
+        "initialization_seconds": 5.07330582800023,
+        "full_touch_seconds": 1.8824967050004489,
+        "gate_seconds": 0.06268796799940901,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.06329469800039078,
+          0.06268796799940901,
+          0.06177680899963889
+        ],
+        "gate_sha256": "d4fcfedbbced78c6033ef56e1c798acacdcdbc3688d43b12c9c1e4bc9f627ef1",
+        "measurement_seconds": 16.178030145000776,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 12305047552,
+        "worker_swap_bytes": 0,
+        "total_seconds": 26.10848142100076,
+        "core_module": "stim._stim_sse2",
+        "backend_version": "1.16.0",
+        "verification": "sampled state identity",
+        "status": "success",
+        "address_space_limit_bytes": 12450799616,
+        "available_before_bytes": 13256105984,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13329481728,
+          "swap_used_bytes": 216371200
+        }
+      },
+      {
+        "stage": "success",
+        "backend": "stabilizer",
+        "qubits": 156672,
+        "mode": "measurement",
+        "storage_bytes": 12283754784,
+        "initialization_seconds": 0.34222726600000897,
+        "full_touch_seconds": 8.449910512000315,
+        "gate_seconds": 0.0714865780000764,
+        "gates": 10000,
+        "gate_samples_seconds": [
+          0.0700089450001542,
+          0.07184850400062714,
+          0.0714865780000764
+        ],
+        "gate_sha256": "2f1fa1030bff733026dfaa5e7b4ad197bc72bb1acefce76a4e2036e09d0fa53c",
+        "measurement_seconds": 0.011132923000332084,
+        "checked_qubits": 64,
+        "peak_rss_bytes": 12312301568,
+        "worker_swap_bytes": 0,
+        "total_seconds": 11.683841803000178,
+        "core_module": "/home/ashwin/qbits/stablizer-simulator/python/stabilizer/_core.abi3.so",
+        "backend_version": "local release extension",
+        "verification": "sampled Clifford identity",
+        "status": "success",
+        "address_space_limit_bytes": 12480720896,
+        "available_before_bytes": 13329481728,
+        "memory_after": {
+          "total_bytes": 16449691648,
+          "available_bytes": 13309759488,
+          "swap_used_bytes": 216649728
+        }
+      }
+    ],
+    "comparisons": [
+      {
+        "qubits": 8192,
+        "gate_sha256": "bd0356ed516913bc18f0e50039e2244324d1f437a2d5f4557709a48d876e28f7",
+        "stabilizer_over_stim_gate_time": 0.5034976809581911,
+        "stabilizer_over_stim_peak_rss": 0.8313211845102506,
+        "stabilizer_over_stim_measurement_time": 0.008090863612094152
+      },
+      {
+        "qubits": 16384,
+        "gate_sha256": "70d96ce086589b22cb2592affc668770f3f578a990fe3e01f989185dc074306d",
+        "stabilizer_over_stim_gate_time": 0.8665789624555456,
+        "stabilizer_over_stim_peak_rss": 0.8313941188914745,
+        "stabilizer_over_stim_measurement_time": 0.004488700393500083
+      },
+      {
+        "qubits": 32768,
+        "gate_sha256": "cb0a87857ef5ef3a1c1fdbebed0337ba551d374f56596c18dfe31fabe282a363",
+        "stabilizer_over_stim_gate_time": 0.8870828135155067,
+        "stabilizer_over_stim_peak_rss": 0.827787780578562,
+        "stabilizer_over_stim_measurement_time": 0.0028791972491503987
+      },
+      {
+        "qubits": 65536,
+        "gate_sha256": "51bfe4f4cdebe1ae5c5dca2292daadda969207ee54805eb7538298870f183fd1",
+        "stabilizer_over_stim_gate_time": 0.794139089672651,
+        "stabilizer_over_stim_peak_rss": 0.8262264168528052,
+        "stabilizer_over_stim_measurement_time": 0.0011073600846563407
+      },
+      {
+        "qubits": 98304,
+        "gate_sha256": "b1aa46613e42431faf894b9ff3c25fb53465f0301847c3ee36e5b08857253801",
+        "stabilizer_over_stim_gate_time": 0.811034509788544,
+        "stabilizer_over_stim_peak_rss": 0.8274512453523054,
+        "stabilizer_over_stim_measurement_time": 0.0007243809526871331
+      },
+      {
+        "qubits": 128000,
+        "gate_sha256": "81bbd12388592b8dadb30b428ce73152cc523fd616c46bef2700b9e823875620",
+        "stabilizer_over_stim_gate_time": 0.7873583340497258,
+        "stabilizer_over_stim_peak_rss": 0.827499521154666,
+        "stabilizer_over_stim_measurement_time": 0.0005954564477912266
+      },
+      {
+        "qubits": 131072,
+        "gate_sha256": "e761c5169bbaeb3936c0a66b7c2cf1f3535d5a15580d158e99199779522f35ea",
+        "stabilizer_over_stim_gate_time": 0.8450180770672951,
+        "stabilizer_over_stim_peak_rss": 0.8265604384132792,
+        "stabilizer_over_stim_measurement_time": 0.000537416149706228
+      },
+      {
+        "qubits": 140288,
+        "gate_sha256": "3c0a66abe298221e548746a5c83083320a533549d6410c5ea563c605333cc52c",
+        "stabilizer_over_stim_gate_time": 0.7641601869636608,
+        "stabilizer_over_stim_peak_rss": 0.8268042021767885,
+        "stabilizer_over_stim_measurement_time": 0.0005529358853788387
+      },
+      {
+        "qubits": 142336,
+        "gate_sha256": "d4fcfedbbced78c6033ef56e1c798acacdcdbc3688d43b12c9c1e4bc9f627ef1",
+        "stabilizer_over_stim_gate_time": 0.787249476650685,
+        "stabilizer_over_stim_peak_rss": 0.8262886621959801,
+        "stabilizer_over_stim_measurement_time": 0.0005754411332354907
+      }
+    ]
+  },
+  "wall_seconds": 187.16163006500028
+}

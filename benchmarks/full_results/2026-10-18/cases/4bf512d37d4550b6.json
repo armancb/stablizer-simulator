@@ -1,0 +1,55 @@
+{
+  "id": "4bf512d37d4550b6",
+  "family": "protocol",
+  "parameters": {
+    "n": 4096,
+    "state": "cluster",
+    "kind": "interleaved",
+    "count": 128,
+    "seed": 731,
+    "layer": 64,
+    "locality": "local"
+  },
+  "started_at_utc": "2026-10-18T20:17:21.261361+00:00",
+  "status": "success",
+  "result": {
+    "qubits": 4096,
+    "state": "cluster",
+    "kind": "interleaved",
+    "measurement_count": 128,
+    "basis": "Z",
+    "weight": 1,
+    "unitary_layer": 64,
+    "locality": "local",
+    "stim_mode": "decomposed",
+    "local_compiled_gates": 8320,
+    "seed": 731,
+    "event_sha256": "ea306f1de2c9147354e8c20bea1527c7c4c8dc87d45daf1f09a67453fb6618d5",
+    "random_measurements": 127,
+    "deterministic_measurements": 1,
+    "samples_seconds": {
+      "stabilizer": [
+        0.0050334740000000005,
+        0.005402378,
+        0.005357604,
+        0.005160025,
+        0.007297390000000001
+      ],
+      "stim": [
+        0.642085019,
+        0.587348233,
+        0.6282305800000001,
+        0.638356589,
+        0.608895775
+      ]
+    },
+    "median_seconds": {
+      "stabilizer": 0.005357604,
+      "stim": 0.6282305800000001
+    },
+    "stabilizer_over_stim": 0.008528085340895056,
+    "verification": "logical outcome replay plus sampled final stabilizers/observables",
+    "timing_scope": "one circuit call and result conversion; includes Clifford decomposition/basis restoration; native_pauli uses Stim MPP"
+  },
+  "wall_seconds": 9.040995643000315
+}
